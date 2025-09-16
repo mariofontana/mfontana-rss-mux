@@ -6,6 +6,7 @@ on:
     - cron: "15 4 * * *"   # 06:15 Europe/Rome
     - cron: "15 16 * * *"  # 18:15 Europe/Rome
 
+    
 jobs:
   build:
     runs-on: ubuntu-latest

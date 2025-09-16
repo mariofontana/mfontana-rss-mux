@@ -1,0 +1,38 @@
+name: Build aggregated feed
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "15 4 * * *"   # 06:15 Europe/Rome
+    - cron: "15 16 * * *"  # 18:15 Europe/Rome
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate feed
+        env:
+          REPO_PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml
+          MAX_ITEMS: "120"
+          KEYWORDS: ""     # es: "copilot,security"
+          SINCE_DAYS: "0"
+          FEED_TITLE: "My Aggregated Feed"
+        run: python generate_feed.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true

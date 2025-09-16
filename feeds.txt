@@ -1,0 +1,3 @@
+https://techcommunity.microsoft.com/rss/ct-p/Microsoft_365_Blog
+https://learn.microsoft.com/api/search/rss?search=Copilot&locale=en-us
+https://devblogs.microsoft.com/feed/

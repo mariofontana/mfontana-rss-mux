@@ -29,7 +29,7 @@ jobs:
           MAX_ITEMS: "120"
           KEYWORDS: ""
           SINCE_DAYS: "0"
-          FEED_TITLE: "My Aggregated Feed"
+          FEED_TITLE: "Mario's Daily Stream"
         run: python generate_feed.py
 
       - name: Deploy to GitHub Pages

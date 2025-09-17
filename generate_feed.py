@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 MAX_ITEMS   = int(os.getenv("MAX_ITEMS", "100"))
 KEYWORDS    = [s.strip().lower() for s in os.getenv("KEYWORDS", "").split(",") if s.strip()]
 SINCE_DAYS  = int(os.getenv("SINCE_DAYS", "0"))  # 0 = nessun filtro per data
-TITLE       = os.getenv("FEED_TITLE", "Personal Aggregated Feed")
+TITLE       = os.getenv("FEED_TITLE", "Mario's Daily Stream")
 AUTHOR_NAME = os.getenv("FEED_AUTHOR_NAME", "Mario Fontana")  # feed-level author per Atom
 SELF_URL    = os.getenv("REPO_PAGES_URL", "https://example.com/feed.xml")
 

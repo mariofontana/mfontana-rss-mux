@@ -3,8 +3,10 @@ name: Build aggregated feed
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "15 4 * * *"
-    - cron: "15 16 * * *"
+    - cron: "0 3 * * *"
+      # Runs at 03:00 UTC, which is 05:00 in Rome (UTC+2 during daylight saving).
+    - cron: "0 12 * * *"
+      # Runs at 12:00 UTC, which is 14:00 in Rome (UTC+2 during daylight saving).
 
 permissions:
   contents: write   # <— necessario per fare push su gh-pages

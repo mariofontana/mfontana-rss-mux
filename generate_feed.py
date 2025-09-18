@@ -67,10 +67,16 @@ def load_feeds(feed_urls):
                 link = normalize_url(e.get("link") or e.get("id") or "")
                 guid = (e.get("id") or e.get("guid") or link or title).strip()
 
+                # ricavo updated e published separati
                 updated = to_dt(
-                    e.get("updated_parsed") or e.get("published_parsed") or
-                    e.get("updated") or e.get("published")
+                    e.get("updated_parsed") or e.get("updated") or
+                    e.get("published_parsed") or e.get("published")
                 )
+                published = to_dt(
+                    e.get("published_parsed") or e.get("published") or
+                    e.get("updated_parsed") or e.get("updated")
+                )
+
                 summary = sanitize_html((e.get("summary") or e.get("description") or "").strip())
 
                 entries.append({
@@ -78,6 +84,7 @@ def load_feeds(feed_urls):
                     "link": link,
                     "guid": guid,
                     "updated": updated,
+                    "published": published,
                     "summary": summary,
                     "author": src,   # useremo la sorgente come autore item
                 })
@@ -113,9 +120,10 @@ def dedup_sort_filter(entries):
     fallback_idx = 0
     for it in out:
         if not it["updated"]:
-            # assegna timestamp univoci scalando di secondi
             it["updated"] = now - timedelta(seconds=fallback_idx)
             fallback_idx += 1
+        if not it["published"]:
+            it["published"] = it["updated"]  # fallback published = updated
     return out
 
 def atom(entries, self_url):
@@ -132,12 +140,14 @@ def atom(entries, self_url):
     for it in entries:
         uid = it["guid"] or it["link"] or hashlib.md5((it["title"] + it["link"]).encode("utf-8")).hexdigest()
         upd = (it["updated"] or datetime.now(timezone.utc)).isoformat()
+        pub = (it["published"] or it["updated"] or datetime.now(timezone.utc)).isoformat()
         parts += [
             "  <entry>",
             f'    <title>{escape(it["title"] or "")}</title>',
             f'    <link href="{escape(it["link"] or "")}"/>',
             f'    <id>{escape(uid)}</id>',
             f'    <updated>{upd}</updated>',
+            f'    <published>{pub}</published>',
             f'    <author><name>{escape(it.get("author") or AUTHOR_NAME)}</name></author>',
             '    <summary type="html"><![CDATA[' + (it["summary"] or "") + ']]></summary>',
             "  </entry>"

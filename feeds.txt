@@ -23,3 +23,4 @@ https://devblogs.microsoft.com/visualstudio/category/github-copilot/feed/
 https://devblogs.microsoft.com/blog/category/github-copilot/feed
 https://devblogs.microsoft.com/feed/
 https://blog.merill.net/feed
+https://microsoft.github.io/mcscatblog/feed.xml

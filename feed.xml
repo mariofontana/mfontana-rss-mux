@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mario&#x27;s Daily Stream</title>
+  <updated>2026-11-14T09:53:28.231856+00:00</updated>
+  <id>https://mariofontana.github.io/mfontana-rss-mux/feed.xml</id>
+  <link rel="self" href="https://mariofontana.github.io/mfontana-rss-mux/feed.xml"/>
+  <author><name>Mario Fontana</name></author>
+  <entry>
+    <title>Call Microsoft Copilot Harness Agents from Other Copilot Studio Agents with MCP and A2A</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/call-ghcp-harness-agents-mcp-a2a/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/call-ghcp-harness-agents-mcp-a2a/</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <published>2026-11-12T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Configure a standard agent to call a Microsoft Copilot harness agent (formerly GitHub Copilot harness) over MCP, and harness agents to call each other across environments over A2A, with OBO sign-in for other users.]]></summary>
+  </entry>
+  <entry>
+    <title>Act faster: hourly alerts for your critical flows, apps, and agents</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/11/act-faster-hourly-alerts-for-your-critical-flows-apps-and-agents/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135582</id>
+    <updated>2026-11-11T17:00:00+00:00</updated>
+    <published>2026-11-11T17:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Spot performance and reliability issues sooner with hourly alerts in Monitor. By checking supported health metrics hourly instead of daily, these alerts help your team identify issues across apps, flows, and agents—and respond faster when thresholds are breached.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/11/act-faster-hourly-alerts-for-your-critical-flows-apps-and-agents/">Act faster: hourly alerts for your critical flows, apps, and agents</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Make business content ready for AI with M-Files – SharePoint Embedded partner spotlight</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/make-business-content-ready-for-ai-with-m-files-sharepoint-embedded-partner-spotlight/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26422</id>
+    <updated>2026-11-11T14:00:54+00:00</updated>
+    <published>2026-11-11T14:00:54+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>What happens when intelligent information management meets the Microsoft 365 ecosystem?  Organizations are looking for better ways to manage growing volumes of business-critical content while preparing that content for AI. As they’re building custom apps, they want strong context and governance along with the Microsoft 365 environments, tools, and security practices they already rely on.  [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/make-business-content-ready-for-ai-with-m-files-sharepoint-embedded-partner-spotlight/">Make business content ready for AI with M-Files &#8211; SharePoint Embedded partner spotlight</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Disabling Adaptive Cards After Submission in Copilot Studio Agents</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/disable-adaptive-cards-after-submission/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/disable-adaptive-cards-after-submission/</id>
+    <updated>2026-11-11T00:00:00+00:00</updated>
+    <published>2026-11-11T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Two proven patterns to disable or replace Adaptive Cards after submission: one for custom web portals using WebChat, and one for Microsoft Teams using Universal Actions.]]></summary>
+  </entry>
+  <entry>
+    <title>What’s new in Power Platform: October/November 2026 feature update</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-october-2026-feature-update/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135130</id>
+    <updated>2026-11-10T16:00:37+00:00</updated>
+    <published>2026-11-10T16:00:37+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Power Apps Public preview: Build flexible file experiences with modern attachments The new modern attachments control gives makers a Fluent file experience that works inside forms or as a standalone control on a canvas.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-october-2026-feature-update/">What’s new in Power Platform: October/November 2026 feature update</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot in Visual Studio Just Got a Major Upgrade</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=257637</id>
+    <updated>2026-11-10T08:00:35+00:00</updated>
+    <published>2026-11-10T08:00:35+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Copilot Chat in Visual Studio just got a new engine. Starting with Visual Studio 2026 version 18.12, it runs on the Microsoft Copilot SDK developed by GitHub, the same technology powering GitHub Copilot CLI, the GitHub Copilot app, and VS Code. It’s on by default, and it’s a major upgrade: same models, more tasks solved, [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/">Copilot in Visual Studio Just Got a Major Upgrade</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Do AI coding agents care about SemVer?</title>
+    <link href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/"/>
+    <id>https://devblogs.microsoft.com/?p=22686</id>
+    <updated>2026-11-09T16:01:03+00:00</updated>
+    <published>2026-11-09T16:01:03+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your version numbers, and what a patch label talks them out of.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/">Do AI coding agents care about SemVer?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128897</id>
+    <updated>2026-11-09T16:00:00+00:00</updated>
+    <published>2026-11-09T16:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Frontier Accelerate brings Microsoft expertise, investments, and skilling together in one package to help you scale AI with confidence.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/">Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills </a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>New Authentication Governance Controls in Power Pages</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/new-authentication-governance-controls-in-power-pages/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135614</id>
+    <updated>2026-11-09T15:54:30+00:00</updated>
+    <published>2026-11-09T15:54:30+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>We&#8217;re excited to announce the public preview of new authentication governance controls in Power Pages. Administrators can now allow or block individual authentication protocols, supported OAuth 2.0 identity providers, and local authentication from the Power Platform admin center (PPAC).</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/new-authentication-governance-controls-in-power-pages/">New Authentication Governance Controls in Power Pages</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</title>
+    <link href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54939</id>
+    <updated>2026-11-06T19:08:44+00:00</updated>
+    <published>2026-11-06T19:08:44+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>
+<p>The post <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032">Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Create and edit non-SPA Power Pages sites with Agentic Coding tools</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-and-edit-non-spa-power-pages-sites-with-agentic-coding-tools/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135555</id>
+    <updated>2026-11-06T17:26:59+00:00</updated>
+    <published>2026-11-06T17:26:59+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>We&#8217;re pleased to introduce preview support for Power Pages sites built with web templates and Liquid (non-SPA or traditional portals). With the Power Pages plugin for GitHub Copilot CLI and Claude Code, describe the site you want to create or edit. The plugin helps you build pages, update content and templates, and customize styling.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-and-edit-non-spa-power-pages-sites-with-agentic-coding-tools/">Create and edit non-SPA Power Pages sites with Agentic Coding tools</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Work IQ: SharePoint Tools</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26276</id>
+    <updated>2026-11-06T08:30:50+00:00</updated>
+    <published>2026-11-06T08:30:50+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Bring SharePoint into your custom apps and agents with Work IQ API New SharePoint tools are coming to the Work IQ API, bringing SharePoint content and actions to your custom apps and agents through the same workplace intelligence layer that powers Microsoft Copilot. Work IQ connects AI to your organization’s knowledge, people, and workflows, combining [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/">Work IQ: SharePoint Tools</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Hooks in Copilot Studio: Give Your Agent More Than Instructions</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/hooks-in-copilot-studio/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/hooks-in-copilot-studio/</id>
+    <updated>2026-11-05T22:31:15+00:00</updated>
+    <published>2026-10-12T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Learn how hooks in Copilot Studio extend agent behavior with event-driven workflows that add context, transform data, and check actions before execution.]]></summary>
+  </entry>
+  <entry>
+    <title>Stop treating agents as one-off projects and start running them as a continuous discipline</title>
+    <link href="https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54831</id>
+    <updated>2026-11-05T17:00:00+00:00</updated>
+    <published>2026-11-05T17:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/">Stop treating agents as one-off projects and start running them as a continuous discipline</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</title>
+    <link href="https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54813</id>
+    <updated>2026-11-05T16:00:00+00:00</updated>
+    <published>2026-11-05T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/">Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Your best AX fixes are hiding in agent trajectories</title>
+    <link href="https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/"/>
+    <id>https://devblogs.microsoft.com/?p=22671</id>
+    <updated>2026-11-05T15:40:49+00:00</updated>
+    <published>2026-11-05T15:40:49+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runner's network traffic. Here are the patterns to look for in your own agents' trajectories, and what to change in your product when you find them.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/">Your best AX fixes are hiding in agent trajectories</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Deprecation notice: Low-trust SharePoint add-ins in SharePoint Server Subscription Edition</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-low-trust-sharepoint-add-ins-in-sharepoint-server-subscription-edition/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26383</id>
+    <updated>2026-11-04T16:52:01+00:00</updated>
+    <published>2026-11-04T16:52:01+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Support for low-trust SharePoint Add-ins in SharePoint Server Subscription Edition ends on January 12, 2027. The January 2027 public update will disable these add-ins by default. Organizations should identify affected solutions and plan their migration to supported alternatives, such as SharePoint Framework (SPFx). SharePoint REST, CSOM, and JSOM APIs are not affected.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-low-trust-sharepoint-add-ins-in-sharepoint-server-subscription-edition/">Deprecation notice: Low-trust SharePoint add-ins in SharePoint Server Subscription Edition</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</title>
+    <link href="https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54784</id>
+    <updated>2026-11-04T16:00:00+00:00</updated>
+    <published>2026-11-04T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/">Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Your voice shapes SPFx: take our developer survey</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/your-voice-shapes-spfx-take-our-developer-survey/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26400</id>
+    <updated>2026-11-04T10:10:37+00:00</updated>
+    <published>2026-11-04T10:10:37+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Help shape the future of SPFx. Share your developer experience in our survey, open until December 9, 2026, and help guide future investments. Explore highlights from a year of updates, including Copilot UX components, and discover what’s next on the roadmap and how to get involved in the community.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/your-voice-shapes-spfx-take-our-developer-survey/">Your voice shapes SPFx: take our developer survey</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Your app needs documents. Do you really want to build a document platform?</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/your-app-needs-documents-do-you-really-want-to-build-a-document-platform/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26388</id>
+    <updated>2026-11-03T16:00:58+00:00</updated>
+    <published>2026-11-03T16:00:58+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>File storage is rarely just file storage.  Imagine your team is building a contract management application. At first, the document requirement looks straightforward: upload a file, organize it, retrieve it, and let the right people open it.  Then the real requirements from your customer, security, and operations teams arrive, and the scope quickly expands to [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/your-app-needs-documents-do-you-really-want-to-build-a-document-platform/">Your app needs documents. Do you really want to build a document platform?</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>The Platform Behind the Next AI Breakthrough</title>
+    <link href="https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54846</id>
+    <updated>2026-11-02T20:52:22+00:00</updated>
+    <published>2026-11-02T20:52:22+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>
+<p>The post <a href="https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/">The Platform Behind the Next AI Breakthrough</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Dataverse goes where you build: Copilot Cowork, coding agents and n8n</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/02/dataverse-for-coding-agents-n8n-copilot-cowork/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135401</id>
+    <updated>2026-11-02T16:00:00+00:00</updated>
+    <published>2026-11-02T16:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Dataverse plugin and native integrations now reach Copilot Cowork, GitHub Copilot, Claude, Codex and ChatGPT, Cursor, Gemini CLI, Google Antigravity and n8n, so developers and makers get the same trusted business data and guardrails in the tools they already use.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/02/dataverse-for-coding-agents-n8n-copilot-cowork/">Dataverse goes where you build: Copilot Cowork, coding agents and n8n</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Does ‘eval’ in the workspace path change what your agent does?</title>
+    <link href="https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/"/>
+    <id>https://devblogs.microsoft.com/?p=22641</id>
+    <updated>2026-10-30T12:49:14+00:00</updated>
+    <published>2026-10-30T12:49:14+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Your eval might be telling the agent it&#8217;s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The agent sees that path on every turn, in the system prompt [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/">Does &#8216;eval&#8217; in the workspace path change what your agent does?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Built by makers: Five years of Power Platform Community Conference</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135345</id>
+    <updated>2026-10-29T16:30:00+00:00</updated>
+    <published>2026-10-29T16:30:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Five years in, PPCC is still built by makers. Explore the ideas, innovations, and community moments that shaped this year’s event.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/">Built by makers: Five years of Power Platform Community Conference</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</title>
+    <link href="https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54722</id>
+    <updated>2026-10-29T16:00:00+00:00</updated>
+    <published>2026-10-29T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/">Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating Frontier Transformation: Reshape business processes</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128754</id>
+    <updated>2026-10-29T15:00:00+00:00</updated>
+    <published>2026-10-29T15:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how organizations are reshaping business processes with AI by connecting knowledge, building trust, and measuring outcomes that create lasting business value.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes/">Accelerating Frontier Transformation: Reshape business processes</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>I Read the MCP and A2A Docs So Adi Didn&#x27;t Have To</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/grumpy-protocol-clients/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/grumpy-protocol-clients/</id>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <published>2026-10-29T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[CATBOT reluctantly explains the Python SDK calls and Entra sign-in behind a sample that connects to Copilot Studio over MCP and A2A.]]></summary>
+  </entry>
+  <entry>
+    <title>From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135388</id>
+    <updated>2026-10-28T20:50:01+00:00</updated>
+    <published>2026-10-28T20:50:01+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Microsoft Dataverse plugin for Copilot Cowork turns a plain-language request into real Dataverse tables, sample data and a published app, with every change approved by you and every action running under your own permissions.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/">From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing the Microsoft Copilot harness in Foundry Agent Service</title>
+    <link href="https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54760</id>
+    <updated>2026-10-28T17:40:56+00:00</updated>
+    <published>2026-10-28T17:40:56+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/">Introducing the Microsoft Copilot harness in Foundry Agent Service</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Publish Visual Studio Marketplace extensions securely with Trusted Publishing</title>
+    <link href="https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/"/>
+    <id>https://devblogs.microsoft.com/?p=22597</id>
+    <updated>2026-10-28T16:59:00+00:00</updated>
+    <published>2026-10-28T16:59:00+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/">Publish Visual Studio Marketplace extensions securely with Trusted Publishing</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Streamline creation and management of AI-ready, custom apps with SharePoint Embedded</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/streamline-creation-and-management-of-ai-ready-custom-apps-with-sharepoint-embedded/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26367</id>
+    <updated>2026-10-28T13:09:27+00:00</updated>
+    <published>2026-10-28T13:09:27+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>SharePoint content isn’t limited to sites and document libraries. Increasingly, organizations are bringing Microsoft 365 content capabilities directly into the custom apps their users rely on.  That’s where SharePoint Embedded comes in. SharePoint Embedded is a cloud-based, API-only document management platform that enables developers to bring Microsoft 365 content capabilities into custom applications, including Office [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/streamline-creation-and-management-of-ai-ready-custom-apps-with-sharepoint-embedded/">Streamline creation and management of AI-ready, custom apps with SharePoint Embedded</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot UX components are generally available: bring interactive experiences into Copilot</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26291</id>
+    <updated>2026-10-28T10:55:44+00:00</updated>
+    <published>2026-10-28T10:55:44+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Copilot UX components are generally available with SPFx 1.24. Bring interactive dashboards, forms, and business actions directly into Microsoft Copilot, so people can complete tasks in context using experiences built on existing web skills and systems.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/">Copilot UX components are generally available: bring interactive experiences into Copilot</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Invite agentic coauthors to collaborate with you directly in canvas studio!</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135333</id>
+    <updated>2026-10-27T19:00:00+00:00</updated>
+    <published>2026-10-27T19:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Today we&#8217;re excited to share big news for canvas app makers: agentic authoring in canvas studio using your GitHub account is now available in preview! In September, the canvas authoring agent plugin became generally available (GA), so you could build canvas apps from your own coding agent – GitHub Copilot CLI, Claude Code and more.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/">Invite agentic coauthors to collaborate with you directly in canvas studio!</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Custom APIs just landed in the Dataverse MCP Server, Agents just got smarter</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/26/custom-apis-just-landed-in-the-dataverse-mcp-server-agents-just-got-smarter/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135017</id>
+    <updated>2026-10-26T16:39:55+00:00</updated>
+    <published>2026-10-26T16:39:55+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Dataverse MCP Server now supports custom APIs allowing customers to leverage their existing custom business logic, from their Agents, regardless of where they are hosted.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/26/custom-apis-just-landed-in-the-dataverse-mcp-server-agents-just-got-smarter/">Custom APIs just landed in the Dataverse MCP Server, Agents just got smarter</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Scale reservoir uncertainty analysis with agile reservoir modeling</title>
+    <link href="https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54706</id>
+    <updated>2026-10-26T16:00:00+00:00</updated>
+    <published>2026-10-26T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/">Scale reservoir uncertainty analysis with agile reservoir modeling</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code</title>
+    <link href="https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/"/>
+    <id>https://devblogs.microsoft.com/?p=22566</id>
+    <updated>2026-10-26T15:05:12+00:00</updated>
+    <published>2026-10-26T15:05:12+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Build, query, and troubleshoot without leaving VS Code.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/">PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>AI that understands your business: Dataverse and Work IQ at PPCC 2026</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/23/dataverse-and-workiq-ppcc-2026/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135320</id>
+    <updated>2026-10-23T21:34:54+00:00</updated>
+    <published>2026-10-23T21:34:54+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>With business applications in Work IQ, now in public preview, Copilot and agents understand your business too.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/23/dataverse-and-workiq-ppcc-2026/">AI that understands your business: Dataverse and Work IQ at PPCC 2026 </a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft named a Leader in two evaluations of next-generation app development platforms</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/22/microsoft-named-a-leader-in-two-evaluations-of-next-generation-app-development-platforms/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135248</id>
+    <updated>2026-10-22T17:00:00+00:00</updated>
+    <published>2026-10-22T17:00:00+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how Microsoft Power Platform and Microsoft Copilot Studio are shaping the next generation of business software with AI-powered development, agents, apps, workflows, and enterprise governance. Learn why Microsoft was recognized as a Leader in two 2026 analyst evaluations.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/22/microsoft-named-a-leader-in-two-evaluations-of-next-generation-app-development-platforms/">Microsoft named a Leader in two evaluations of next-generation app development platforms</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Develop enterprise-grade apps with SharePoint Embedded</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/develop-enterprise-grade-apps-with-sharepoint-embedded/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26346</id>
+    <updated>2026-10-22T12:30:44+00:00</updated>
+    <published>2026-10-22T12:30:44+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Taking an enterprise application from development to production requires confidence that it can scale, stay reliable, and be governed effectively. Recent SharePoint Embedded updates give developers clearer guidance for making those decisions, from understanding limits and managing throttling to choosing the right permissions.  In this blog post, we highlight updates that help you:   Plan with [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/develop-enterprise-grade-apps-with-sharepoint-embedded/">Develop enterprise-grade apps with SharePoint Embedded</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>One SDK Client for Both Copilot Studio Harnesses (Preview)</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/copilot-studio-sdk-both-harnesses/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/copilot-studio-sdk-both-harnesses/</id>
+    <updated>2026-10-21T18:42:15+00:00</updated>
+    <published>2026-10-21T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Build custom clients for both Copilot Studio harnesses with Microsoft Entra ID sign-in, plus reasoning and tool calls from GitHub Copilot-harness agents.]]></summary>
+  </entry>
+  <entry>
+    <title>Advancing digital sovereignty with greater control and choice</title>
+    <link href="https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54703</id>
+    <updated>2026-10-20T17:34:47+00:00</updated>
+    <published>2026-10-20T17:34:47+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.</p>
+<p>The post <a href="https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/">Advancing digital sovereignty with greater control and choice</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Can a local git remote replace GitHub in your agent eval?</title>
+    <link href="https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/"/>
+    <id>https://devblogs.microsoft.com/?p=22551</id>
+    <updated>2026-10-20T14:53:27+00:00</updated>
+    <published>2026-10-20T14:53:27+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/">Can a local git remote replace GitHub in your agent eval?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Work IQ: the new retrieve tool</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/work-iq-retrieve-october-2026/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26252</id>
+    <updated>2026-10-20T07:00:57+00:00</updated>
+    <published>2026-10-20T07:00:57+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>The new Work IQ Retrieve tool grounds agents in the context of work, helping them reason over the right information and deliver more relevant, trustworthy responses. With one retrieval layer across work sources, developers can give agents richer organizational context without building separate search systems. Retrieve: grounded answers across work sources The new MCP tool [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/work-iq-retrieve-october-2026/">Work IQ: the new retrieve tool</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Designing for sovereign AI: A shared foundation from edge to cloud</title>
+    <link href="https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54636</id>
+    <updated>2026-10-19T19:00:00+00:00</updated>
+    <published>2026-10-19T19:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/">Designing for sovereign AI: A shared foundation from edge to cloud</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Build AI-powered apps without creating a vector database</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/build-ai-powered-apps-without-creating-a-vector-database/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26245</id>
+    <updated>2026-10-13T13:00:52+00:00</updated>
+    <published>2026-10-13T13:00:52+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Developers building AI applications face a familiar challenge: how do you ground AI experiences in enterprise content while maintaining security, compliance, and governance?  You can use the Microsoft 365 Copilot Retrieval API for SharePoint Embedded, which helps you add Microsoft 365 Copilot and agent experiences to your SharePoint Embedded apps when you want to control the grounding [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/build-ai-powered-apps-without-creating-a-vector-database/">Build AI-powered apps without creating a vector database</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Deep dive into Azure Maia 300 architecture</title>
+    <link href="https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54429</id>
+    <updated>2026-10-12T13:00:00+00:00</updated>
+    <published>2026-10-12T13:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/">Deep dive into Azure Maia 300 architecture</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing the Agent Experience (AX) Practitioner Playbook</title>
+    <link href="https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/"/>
+    <id>https://devblogs.microsoft.com/?p=22513</id>
+    <updated>2026-10-09T09:44:25+00:00</updated>
+    <published>2026-10-09T09:44:25+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don't.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/">Introducing the Agent Experience (AX) Practitioner Playbook</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit</title>
+    <link href="https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/"/>
+    <id>https://devblogs.microsoft.com/?p=22461</id>
+    <updated>2026-10-07T15:00:26+00:00</updated>
+    <published>2026-10-07T15:00:26+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the principles and lifecycle of SDD. Here, we focus on the next challenge: adapting that workflow to the standards, domains, tools, and governance needs of a large engineering [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/">From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Build Azure canvases with the Canvas authoring plugin</title>
+    <link href="https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/"/>
+    <id>https://devblogs.microsoft.com/?p=22486</id>
+    <updated>2026-10-06T18:30:00+00:00</updated>
+    <published>2026-10-06T18:30:00+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/">Build Azure canvases with the Canvas authoring plugin</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>What is Agent Experience (AX)?</title>
+    <link href="https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/"/>
+    <id>https://devblogs.microsoft.com/?p=22481</id>
+    <updated>2026-10-06T09:18:05+00:00</updated>
+    <published>2026-10-06T09:18:05+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/">What is Agent Experience (AX)?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Sovereign AI: Accelerate innovation with control and choice</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128363</id>
+    <updated>2026-10-05T13:00:00+00:00</updated>
+    <published>2026-10-05T13:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Explore how Microsoft and NVIDIA are helping organizations advance sovereign AI with greater control, choice, flexibility, and resilience across cloud, edge, and customer-controlled environments.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/">Sovereign AI: Accelerate innovation with control and choice</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Build with Azure Canvases: a shared workspace for agents</title>
+    <link href="https://devblogs.microsoft.com/blog/azure-canvases/"/>
+    <id>https://devblogs.microsoft.com/?p=22449</id>
+    <updated>2026-09-29T18:30:00+00:00</updated>
+    <published>2026-09-29T18:30:00+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/azure-canvases/">Build with Azure Canvases: a shared workspace for agents</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</title>
+    <link href="https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"/>
+    <id>https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/</id>
+    <updated>2026-09-29T06:30:00+00:00</updated>
+    <published>2026-09-29T06:30:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Get started with the GitHub Copilot app: a free, hands-on course</title>
+    <link href="https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/"/>
+    <id>https://devblogs.microsoft.com/?p=22430</id>
+    <updated>2026-09-28T18:05:00+00:00</updated>
+    <published>2026-09-28T18:05:00+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/">Get started with the GitHub Copilot app: a free, hands-on course</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Designing agent-first platforms: What changes when agents do the work</title>
+    <link href="https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=53970</id>
+    <updated>2026-09-23T15:00:00+00:00</updated>
+    <published>2026-09-23T15:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/">Designing agent-first platforms: What changes when agents do the work</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Power Platform CLI ❤️ Power Platform API</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/power-platform-cli-%e2%9d%a4%ef%b8%8f-power-platform-api/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=2147</id>
+    <updated>2026-09-17T18:40:24+00:00</updated>
+    <published>2026-09-17T18:40:24+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Historically, Power Platform administrators and developers have automated management tasks through a mix of tools. A capability might exist in the admin center, use a different name in PowerShell, have a custom shape in a connector, or not yet be available in the command line. Each tool could be valuable, but moving between them often [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/power-platform-cli-%e2%9d%a4%ef%b8%8f-power-platform-api/">Power Platform CLI ❤️ Power Platform API</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft’s commitment for AI in education</title>
+    <link href="https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128266</id>
+    <updated>2026-09-16T22:36:04+00:00</updated>
+    <published>2026-09-16T22:36:04+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>AI can personalize learning, reduce administrative burden, accelerate research and expand access to high-quality instruction. It also brings real risk.</p>
+<p>The post <a href="https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/">Microsoft’s commitment for AI in education</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Build an interview coach app with the GitHub Copilot SDK</title>
+    <link href="https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/"/>
+    <id>https://devblogs.microsoft.com/?p=22323</id>
+    <updated>2026-09-15T16:00:11+00:00</updated>
+    <published>2026-09-15T16:00:11+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires calling an application service. The GitHub Copilot SDK lets you use the [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/">Build an interview coach app with the GitHub Copilot SDK</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>From Redis pressure to a healthier service</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/azure-managed-redis-migration/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=2130</id>
+    <updated>2026-09-15T15:47:43+00:00</updated>
+    <published>2026-09-15T15:47:43+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Lessons from an Azure Managed Redis migration for Copilot Studio agent flows: cache efficiency, client reliability, staged rollout, and lower costs.</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/azure-managed-redis-migration/">From Redis pressure to a healthier service</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI</title>
+    <link href="https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=53839</id>
+    <updated>2026-09-10T17:00:00+00:00</updated>
+    <published>2026-09-10T17:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/">The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Today I will… find hidden latency across a distributed .NET application</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=257172</id>
+    <updated>2026-09-08T16:00:22+00:00</updated>
+    <published>2026-09-08T16:00:22+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>When a distributed application feels slow, the user sees one delay. The code behind that delay may run across a web frontend, backend services, databases, and external APIs. If you profile only the frontend while the backend is slow, the profiler can show that the frontend is healthy without revealing the actual bottleneck. This article [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/">Today I will&#8230; find hidden latency across a distributed .NET application</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Responsible AI in 2026: How we are adapting for what’s ahead</title>
+    <link href="https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128080</id>
+    <updated>2026-09-01T17:11:44+00:00</updated>
+    <published>2026-09-01T17:11:44+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft's 2026 Responsible AI Transparency Report highlights the progress we’ve made in building and deploying AI responsibly, supporting our customers, and strengthening our responsible AI governance, tools, and practices.</p>
+<p>The post <a href="https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/">Responsible AI in 2026: How we are adapting for what’s ahead</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating Frontier Transformation: Reinvent customer engagement</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=127928</id>
+    <updated>2026-08-26T15:00:00+00:00</updated>
+    <published>2026-08-26T15:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how organizations use AI to personalize engagement, strengthen relationships, and deliver more responsive experiences at scale.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/">Accelerating Frontier Transformation: Reinvent customer engagement</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating AI adoption with intelligent discovery in Microsoft Marketplace</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=127948</id>
+    <updated>2026-08-25T15:00:00+00:00</updated>
+    <published>2026-08-25T15:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how Microsoft Marketplace intelligent discovery helps organizations find, compare, and adopt AI solutions faster and with confidence.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/">Accelerating AI adoption with intelligent discovery in Microsoft Marketplace</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap</title>
+    <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=134933</id>
+    <updated>2026-08-25T15:00:00+00:00</updated>
+    <published>2026-08-25T15:00:00+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Learn how the transition from release waves to the AI at Work roadmap creates a single destination to discover, track, and plan your innovations.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/">One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>5 signals of trusted AI: How organizations scale AI with security, governance, and observability</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=127932</id>
+    <updated>2026-08-24T16:00:00+00:00</updated>
+    <published>2026-08-24T16:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Learn the five signals of trusted AI, from AI governance and security to observability and sovereignty, and discover how organizations scale AI with confidence.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/">5 signals of trusted AI: How organizations scale AI with security, governance, and observability</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=53285</id>
+    <updated>2026-08-17T15:00:00+00:00</updated>
+    <published>2026-08-17T15:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms </a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=52873</id>
+    <updated>2026-08-06T15:00:00+00:00</updated>
+    <published>2026-08-06T15:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Secured and Governed your AI Agents: Microsoft Entra Agent ID for Dataverse</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/microsoft-entra-agent-id-for-dataverse/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=134856</id>
+    <updated>2026-08-06T14:00:00+00:00</updated>
+    <published>2026-08-06T14:00:00+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft Entra Agent ID and Dataverse agent users offer a new identity foundation. Together, they help organizations give each agent a dedicated identity for accessing Dataverse, assign appropriate security roles, and maintain visibility into the agent’s activity.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/microsoft-entra-agent-id-for-dataverse/">Secured and Governed your AI Agents: Microsoft Entra Agent ID for Dataverse </a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating Frontier Transformation: Enrich employee experience</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=125836</id>
+    <updated>2026-08-04T15:00:00+00:00</updated>
+    <published>2026-08-04T15:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>See how AI enriches employee experience: Frontier organizations help people grow, do meaningful work, and thrive, beyond time saved.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/">Accelerating Frontier Transformation: Enrich employee experience</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>A deep dive into Power Pages Enhanced Authorization</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/power-pages-enhanced-authorization/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=2095</id>
+    <updated>2026-07-31T05:41:52+00:00</updated>
+    <published>2026-07-31T05:41:52+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Dataverse Native Authorization Model for Power Pages How mapped identities, security roles, and record filters move external-user authorization closer to the data. We’re introducing a major update to the Power Pages security model: authorization for external users is now enforced natively in Dataverse. Customers can opt in to this feature as they transition to the [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/power-pages-enhanced-authorization/">A deep dive into Power Pages Enhanced Authorization</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>What’s the Tea? Lessons from leaders navigating AI transformation</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=15414</id>
+    <updated>2026-07-30T16:00:00+00:00</updated>
+    <published>2026-07-30T16:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>I drink a lot of tea. English breakfast, usually, in a real cup, every day. So when my team came to me with an idea for a new series, they wanted it to be relatable, and honestly, I was hesitant at first. But at the end of the day, the name captured something I find genuinely energizing right now: the pace at which leaders are transforming their organizations with AI, and how generously they're sharing what they're learning with one another.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/">What&#8217;s the Tea? Lessons from leaders navigating AI transformation</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Prompt Columns in GA: Turning Business Apps Data into Persisted AI Insights</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/07/29/prompt-columns-july2026/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=134747</id>
+    <updated>2026-07-29T15:00:00+00:00</updated>
+    <published>2026-07-29T15:00:00+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Prompt Columns allows organizations to embed AI directly into business tables, without writing a single line of code. With Prompt Columns, you define natural language prompts once, and AI automatically generates insights, classifications, summaries, and recommendations that are persisted directly in your data.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/07/29/prompt-columns-july2026/">Prompt Columns in GA: Turning Business Apps Data into Persisted AI Insights</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Dataverse Plugin for Coding Agents: OpenAI and Codex Marketplace Expansion</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/07/28/dataverse-plugin-for-coding-agents-openai-and-codex-marketplace-expansion/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=134811</id>
+    <updated>2026-07-28T16:57:55+00:00</updated>
+    <published>2026-07-28T16:57:55+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>We’re excited to announce expansion of the Dataverse plugin across additional coding agent marketplaces, meeting developers where they already work. The plugin is now available for OpenAI and Codex.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/07/28/dataverse-plugin-for-coding-agents-openai-and-codex-marketplace-expansion/">Dataverse Plugin for Coding Agents: OpenAI and Codex Marketplace Expansion</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=256737</id>
+    <updated>2026-07-14T17:30:57+00:00</updated>
+    <published>2026-07-14T17:30:57+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Visual Studio now includes built-in Agent Skills, created by experts from the .NET and Azure teams, to help you better customize your agentic workflow and complete development tasks more efficiently, starting with the 18.8 Release. Agent Skills are reusable capabilities that enable your agent to perform structured tasks more reliably (to learn more about what [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/">Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>GPT-5.6 now available in Microsoft Foundry</title>
+    <link href="https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=52321</id>
+    <updated>2026-07-09T17:00:00+00:00</updated>
+    <published>2026-07-09T17:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/">GPT-5.6 now available in Microsoft Foundry </a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Let’s Learn GitHub Copilot App – Free Virtual Training Event</title>
+    <link href="https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event/"/>
+    <id>https://devblogs.microsoft.com/?p=21971</id>
+    <updated>2026-07-08T17:30:28+00:00</updated>
+    <published>2026-07-08T17:30:28+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App!</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event/">Let’s Learn GitHub Copilot App &#8211; Free Virtual Training Event</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Meet the Agent Academy Hackathon Winners</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=2058</id>
+    <updated>2026-06-18T19:52:38+00:00</updated>
+    <published>2026-06-18T19:52:38+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>From May 12 to June 2, 2026, builders from around the world put their Agent Academy learning to the test by designing, building, and shipping real, working AI agents with Copilot Studio. After two weeks of judging, we’re thrilled to announce the Agent Academy Hackathon winners. 🏆 The Winners Recruit Track The Recruit track is [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/">Meet the Agent Academy Hackathon Winners</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>3 things leaders need to know from Microsoft Build 2026</title>
+    <link href="https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=51612</id>
+    <updated>2026-06-11T19:00:00+00:00</updated>
+    <published>2026-06-11T19:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/">3 things leaders need to know from Microsoft Build 2026</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Spec-Driven Development: A Spec-First Approach to AI-Native Engineering</title>
+    <link href="https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering/"/>
+    <id>https://devblogs.microsoft.com/?p=21735</id>
+    <updated>2026-06-10T16:15:09+00:00</updated>
+    <published>2026-06-10T16:15:09+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final result still reflects the original intent. Spec-Driven Development (SDD) addresses this by making structured specs the shared source of truth for both humans [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering/">Spec-Driven Development: A Spec-First Approach to AI-Native Engineering</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</title>
+    <link href="https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=51611</id>
+    <updated>2026-06-09T17:00:00+00:00</updated>
+    <published>2026-06-09T17:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/">Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Build 2026 recap: vision, launches, and top sessions</title>
+    <link href="https://devblogs.microsoft.com/blog/build-recap/"/>
+    <id>https://devblogs.microsoft.com/?p=21723</id>
+    <updated>2026-06-08T22:15:00+00:00</updated>
+    <published>2026-06-08T22:15:00+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/build-recap/">Microsoft Build 2026 recap: vision, launches, and top sessions</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing Microsoft Discovery general availability and Microsoft Discovery app preview</title>
+    <link href="https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=51244</id>
+    <updated>2026-06-02T18:15:00+00:00</updated>
+    <published>2026-06-02T18:15:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/">Announcing Microsoft Discovery general availability and Microsoft Discovery app preview</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Improve your agentic developer tools by grounding in Microsoft Learn</title>
+    <link href="https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn/"/>
+    <id>https://devblogs.microsoft.com/?p=21645</id>
+    <updated>2026-05-28T17:00:52+00:00</updated>
+    <published>2026-05-28T17:00:52+00:00</published>
+    <author><name>GitHub Copilot - Category | Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft documentation &#8211; one endpoint, nothing to install, no authentication required. What does that look like in practice? You give your coding agent [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn/">Improve your agentic developer tools by grounding in Microsoft Learn</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Agent Skills in Visual Studio: Teach Copilot How Your Team Works</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=256107</id>
+    <updated>2026-05-13T16:00:47+00:00</updated>
+    <published>2026-05-13T16:00:47+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Visual Studio now supports Agent Skills, which are reusable instruction sets that teach Copilot agents how to handle specific tasks like running a build pipeline, generating boilerplate, or following your team&#8217;s coding standards. Define a skill once, and the agent applies it automatically whenever it&#8217;s relevant. Creating a skill You can create a skill directly [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/">Agent Skills in Visual Studio: Teach Copilot How Your Team Works</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>From commit to cloud: Powering what’s next for PostgreSQL</title>
+    <link href="https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=50970</id>
+    <updated>2026-05-13T16:00:00+00:00</updated>
+    <published>2026-05-13T16:00:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future</title>
+    <link href="https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=50780</id>
+    <updated>2026-05-06T14:00:00+00:00</updated>
+    <published>2026-05-06T14:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Dataverse Plugin Is Now on the Claude Marketplace</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/dataverse-plugin-claude-marketplace/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=1987</id>
+    <updated>2026-04-30T16:06:35+00:00</updated>
+    <published>2026-04-30T16:06:35+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Dataverse gives developers a powerful platform for building enterprise applications — but getting from zero to a connected, working environment has always involved multiple tools, authentication flows, and configuration steps. The Dataverse plugin was built to accelerate that journey by letting AI coding agents handle the setup orchestration for you. Three weeks ago we introduced [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/dataverse-plugin-claude-marketplace/">Dataverse Plugin Is Now on the Claude Marketplace</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>The New Loop: How Power Pages Builds Software with AI</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/the-new-loop-how-power-pages-builds-software-with-ai/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=2039</id>
+    <updated>2026-04-29T06:31:38+00:00</updated>
+    <published>2026-04-29T06:31:38+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Introduction When I started writing software professionally in 2015, the tech landscape looked completely different. Tools and frameworks kept evolving since then, but the process of building software barely moved for a decade. That changed in the last couple of months. Here&#8217;s what has changed in how the Power Pages team builds and ships software [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/the-new-loop-how-power-pages-builds-software-with-ai/">The New Loop: How Power Pages Builds Software with AI</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/"/>
+    <id>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/</id>
+    <updated>2026-04-28T16:00:00+00:00</updated>
+    <published>2026-04-28T16:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Azure API Management provides a single, Azure-native platform to govern everything from traditional APIs to AI models, tools, and agents.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/">Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>How Drasi used GitHub Copilot to find documentation bugs</title>
+    <link href="https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/"/>
+    <id>https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/</id>
+    <updated>2026-04-09T15:05:00+00:00</updated>
+    <published>2026-04-09T15:05:00+00:00</published>
+    <author><name>GitHub Copilot | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working.</p>
+<p>The post <a href="https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/">How Drasi used GitHub Copilot to find documentation bugs</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Agent Academy Spring Drop: Special Ops, Cowork Collective, and a Whole New Look</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/agent-academy-update-special-ops-cowork-collective/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=1945</id>
+    <updated>2026-04-06T21:26:22+00:00</updated>
+    <published>2026-04-06T21:26:22+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>We&#8217;ve shipped a big round of updates to Agent Academy. Two new sections, a completely redone site experience, and more missions on the way. Here&#8217;s what&#8217;s changed. Quick recap for anyone new Agent Academy is a free, open-source curriculum for learning how to build agents with Microsoft Copilot Studio. Since launching in August 2025, it [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/agent-academy-update-special-ops-cowork-collective/">Agent Academy Spring Drop: Special Ops, Cowork Collective, and a Whole New Look</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Dataverse Skills: Your Coding Agent Now Speaks Dataverse</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/dataverse-skills-your-coding-agent-now-speaks-dataverse/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=1918</id>
+    <updated>2026-04-01T12:00:14+00:00</updated>
+    <published>2026-04-01T12:00:14+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Building enterprise solutions is shifting from writing code to directing AI agents. Instead of stitching together APIs, CLIs, and scripts, developers are increasingly describing intent and letting agents execute. For enterprise platforms like Dataverse, this creates a new requirement: they must be operable by agents, not just by humans. Today we’re releasing Dataverse Skills — [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/dataverse-skills-your-coding-agent-now-speaks-dataverse/">Dataverse Skills: Your Coding Agent Now Speaks Dataverse</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Visual Studio February Update</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=255690</id>
+    <updated>2026-02-24T22:16:30+00:00</updated>
+    <published>2026-02-24T22:16:30+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>This month’s Visual Studio update continues our focus on helping you move faster and stay in flow, with practical improvements across AI assistance, debugging, testing, and modernization. Building on the momentum from January’s editor updates, the February release brings smarter diagnostics and targeted support for real world development scenarios, from WinForms maintenance to C++ modernization. [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/">Visual Studio February Update</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Custom Agents in Visual Studio: Built in and Build-Your-Own agents</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=255658</id>
+    <updated>2026-02-19T21:02:13+00:00</updated>
+    <published>2026-02-19T21:02:13+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Agents in Visual Studio now go beyond a single general-purpose assistant. We&#8217;re shipping a set of curated preset agents that tap into deep IDE capabilities; debugging, profiling, testing alongside a framework for building your own custom agents tailored to how your team works. Built in agents Each preset agent is designed around a specific developer [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/">Custom Agents in Visual Studio: Built in and Build-Your-Own agents</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Unlock language-specific rich symbol context using new find_symbol tool</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=255598</id>
+    <updated>2026-02-11T15:29:15+00:00</updated>
+    <published>2026-02-11T15:29:15+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Refactoring at scale is a time-consuming and error-prone process for developers. In large codebases, developers have relied on manual searches and incremental edits across multiple files to accomplish these tasks. Modern development workflows depend on fast and accurate code navigation to avoid these pitfalls. When developers refactor existing code, explore unfamiliar areas of a large [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/">Unlock language-specific rich symbol context using new find_symbol tool</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Visual Studio January Update — Enhanced Editor Experience</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=255468</id>
+    <updated>2026-01-27T18:30:12+00:00</updated>
+    <published>2026-01-27T18:30:12+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Productivity Improvements This month, we are bringing you a series of small yet long requested and popular features to let you better control and customize your editor. These features are currently only available in the Insiders channel and will be available in Release soon. Fast scrolling: Hold down the Alt key while scrolling the mouse wheel [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/">Visual Studio January Update — Enhanced Editor Experience</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing Agent Academy: Operative</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/announcing-agent-academy-operative/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=1901</id>
+    <updated>2026-01-14T18:45:09+00:00</updated>
+    <published>2026-01-14T18:45:09+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Earlier this year, we launched Agent Academy: Recruit, a foundational learning path designed to help makers and developers get started with building agents in Copilot Studio. The response exceeded our expectations. Since launch, thousands of learners have worked through the Recruit curriculum, and through the Global AI Community we’ve issued 500+ badges to people who [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/announcing-agent-academy-operative/">Announcing Agent Academy: Operative</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Foundry IQ in Microsoft Agent Framework</title>
+    <link href="https://devblogs.microsoft.com/foundry/foundry-iq-agent-framework-integration/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1907</id>
+    <updated>2025-12-07T10:55:00+00:00</updated>
+    <published>2025-12-07T10:55:00+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Build enterprise-grade RAG agents with Foundry IQ Knowledge Bases in ~20 lines of Python. Learn how the Azure AI Search Context Provider brings intelligent, multi-hop retrieval to the Microsoft Agent Framework—no fragmented pipelines, just plug in the knowledge your agent needs.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/foundry-iq-agent-framework-integration/">Foundry IQ in Microsoft Agent Framework</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=255104</id>
+    <updated>2025-12-03T16:00:24+00:00</updated>
+    <published>2025-12-03T16:00:24+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Visual Studio 2026 is here! If you haven’t heard the news yet, we’re excited to share with you that Visual Studio 2026 is now generally available! This new version can better assist you with several performance improvements, a redesigned user experience, and a major leap in AI-driven development. Read more about it here and get [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/">Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Multi-Agent Workflows in Foundry Agent Service</title>
+    <link href="https://devblogs.microsoft.com/foundry/introducing-multi-agent-workflows-in-foundry-agent-service/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1474</id>
+    <updated>2025-11-25T16:00:37+00:00</updated>
+    <published>2025-11-25T16:00:37+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Across industries, organizations are moving from experimenting with single agents to running AI at the center of their business operations. While single agents excel at focused tasks, customers quickly discover that real enterprise work stretches across multiple steps, involves different roles, and requires strong governance. To operationalize AI in this environment, teams need a dependable [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/introducing-multi-agent-workflows-in-foundry-agent-service/">Introducing Multi-Agent Workflows in Foundry Agent Service</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing GPT-4o Audio Models in Microsoft Foundry: A Practical Guide for Developers</title>
+    <link href="https://devblogs.microsoft.com/foundry/azure-openai-gpt4o-audio-models-developer-guide/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=268</id>
+    <updated>2025-11-20T16:00:21+00:00</updated>
+    <published>2025-11-20T16:00:21+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>How to get started with Azure OpenAI's next-generation GPT-4o audio models for transcription and text-to-speech applications.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/azure-openai-gpt4o-audio-models-developer-guide/">Introducing GPT-4o Audio Models in Microsoft Foundry: A Practical Guide for Developers</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Copilot auto model selection (preview)</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=254879</id>
+    <updated>2025-11-12T17:38:43+00:00</updated>
+    <published>2025-11-12T17:38:43+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Faster responses, a lower chance of rate limiting, and 10% off premium requests for paid users &#8211; auto picks the best available model for each request based on current capacity and performance. With auto, you don&#8217;t need to choose a specific model. Copilot automatically selects the best one for your task. Auto model selection in [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/">Introducing Copilot auto model selection (preview)</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry</title>
+    <link href="https://devblogs.microsoft.com/foundry/a-developers-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1361</id>
+    <updated>2025-10-20T07:11:50+00:00</updated>
+    <published>2025-10-20T07:11:50+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Whether you’re a machine learning practitioner, app developer, or just curious about the latest in AI, this guide shows how you can quickly boost image classification accuracy using cutting-edge Vision-Language Models (VLM) on Azure—no deep learning expertise required. In this walkthrough, you’ll see how to fine-tune GPT-4o on Azure OpenAI for image classification using the [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/a-developers-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/">A Developer&#8217;s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft’s commitment to supporting cloud infrastructure demand in Asia</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/"/>
+    <id>https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/</id>
+    <updated>2025-10-09T15:00:00+00:00</updated>
+    <published>2025-10-09T15:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft is expanding its cloud infrastructure across Asia to help organizations scale with secure, AI-ready services. Learn more.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/">Microsoft&#8217;s commitment to supporting cloud infrastructure demand in Asia</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps</title>
+    <link href="https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1260</id>
+    <updated>2025-10-01T13:57:12+00:00</updated>
+    <published>2025-10-01T13:57:12+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Why agents need a new foundation Over the last year, developers have been experimenting with AI agents in every imaginable form. Agents are not just chatbots or copilots — they are autonomous software components that can reason about goals, call tools and APIs, collaborate with other agents, and adapt dynamically. Whether it’s a retrieval agent [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/">Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Ask Ralph: Where style meets AI—a new era of conversational commerce</title>
+    <link href="https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/"/>
+    <id>https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/</id>
+    <updated>2025-09-09T15:41:03+00:00</updated>
+    <published>2025-09-09T15:41:03+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>Meet Ask Ralph, a new AI-powered styling companion that not only helps with product discovery but also inspires consumers with Ralph Lauren's unique and iconic take on style.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/">Ask Ralph: Where style meets AI—a new era of conversational commerce</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>What’s new in Azure AI Foundry | August 2025</title>
+    <link href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-august-2025/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1196</id>
+    <updated>2025-09-03T15:00:50+00:00</updated>
+    <published>2025-09-03T15:00:50+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>August 2025 highlights GPT‑5 arrives in Foundry, Model Router adds GPT‑5 support, Responses API is GA, Browser Automation enters public preview, plus Sora updates, Mistral Document AI, FLUX image models, OpenAI gpt‑oss with Foundry Local, and SDK/documentation updates.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-august-2025/">What&#8217;s new in Azure AI Foundry | August 2025</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2025-gartner-magic-quadrant-for-cloud-native-application-platforms/"/>
+    <id>https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2025-gartner-magic-quadrant-for-cloud-native-application-platforms/</id>
+    <updated>2025-08-21T15:00:00+00:00</updated>
+    <published>2025-08-21T15:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>We’re proud to announce that Microsoft has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms for a second year in a row, and the furthest to the right in Completeness of Vision.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2025-gartner-magic-quadrant-for-cloud-native-application-platforms/">Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms </a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing Copilot Studio Agent Academy: Your Mission Starts Now</title>
+    <link href="https://devblogs.microsoft.com/powerplatform/announcing-copilot-studio-agent-academy/"/>
+    <id>https://devblogs.microsoft.com/powerplatform/?p=1870</id>
+    <updated>2025-08-20T13:00:39+00:00</updated>
+    <published>2025-08-20T13:00:39+00:00</published>
+    <author><name>Power Platform Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Welcome to Copilot Studio Agent Academy Whether you&#8217;re just starting your journey with AI agents or looking to sharpen your skills in Microsoft Copilot Studio, we&#8217;ve got your mission briefing ready and it&#8217;s time to suit up! We&#8217;re thrilled to introduce Copilot Studio Agent Academy, a new, self-paced curriculum designed to help makers, developers, and [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/powerplatform/announcing-copilot-studio-agent-academy/">Announcing Copilot Studio Agent Academy: Your Mission Starts Now</a> appeared first on <a href="https://devblogs.microsoft.com/powerplatform">Power Platform Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>What’s new in Azure AI Foundry | July 2025</title>
+    <link href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-july-2025/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1087</id>
+    <updated>2025-08-04T15:00:27+00:00</updated>
+    <published>2025-08-04T15:00:27+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>July 2025 brings Deep Research Agent (public preview), GPT-image-1 model enhancements, new developer tools, and platform, security, and SDK updates to Azure AI Foundry.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-july-2025/">What&#8217;s new in Azure AI Foundry | July 2025</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Scaling generative AI in the cloud: Enterprise use cases for driving secure innovation</title>
+    <link href="https://azure.microsoft.com/en-us/blog/scaling-generative-ai-in-the-cloud-enterprise-use-cases-for-driving-secure-innovation/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=45048</id>
+    <updated>2025-07-29T15:00:00+00:00</updated>
+    <published>2025-07-29T15:00:00+00:00</published>
+    <author><name>Azure OpenAI | Microsoft Azure Blog | Microsoft Azure</name></author>
+    <summary type="html"><![CDATA[<p>In our technical guide, “Accelerating Generative AI Innovation with Cloud Migration” we outline how IT and digital transformation leaders can tap into the power and flexibility of Azure to unlock the full potential of generative AI.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/scaling-generative-ai-in-the-cloud-enterprise-use-cases-for-driving-secure-innovation/">Scaling generative AI in the cloud: Enterprise use cases for driving secure innovation </a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>What’s new in Azure AI Foundry | June 2025</title>
+    <link href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-june-2025/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=1048</id>
+    <updated>2025-06-30T15:00:36+00:00</updated>
+    <published>2025-06-30T15:00:36+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Latest features and updates in Azure AI Foundry for June 2025, featuring major model releases, Agent Service GA, enhanced developer tools, and significant portal improvements.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/whats-new-in-azure-ai-foundry-june-2025/">What&#8217;s new in Azure AI Foundry | June 2025</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry</title>
+    <link href="https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=987</id>
+    <updated>2025-06-20T16:06:00+00:00</updated>
+    <published>2025-06-20T16:06:00+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>Learn about o3-pro, the latest Azure OpenAI reasoning model available in Azure AI Foundry. Get access and start building your applications.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/azure-openai-o3-pro-ai-foundry/">o-series Updates: New o3 pricing and o3-pro in Azure AI Foundry</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry</title>
+    <link href="https://devblogs.microsoft.com/foundry/sora-in-video-playground/"/>
+    <id>https://devblogs.microsoft.com/foundry/?p=851</id>
+    <updated>2025-05-29T20:38:42+00:00</updated>
+    <published>2025-05-29T20:38:42+00:00</published>
+    <author><name>azure-openai - Tag | Microsoft Foundry Blog</name></author>
+    <summary type="html"><![CDATA[<p>The video playground in Azure AI Foundry is a high-fidelity testbed for prototyping with cutting-edge video generation models like Sora from Azure OpenAI. It offers a controlled environment for developers to experiment with prompt structures, evaluate model consistency, and optimize outputs for industry use cases.</p>
+<p>The post <a href="https://devblogs.microsoft.com/foundry/sora-in-video-playground/">Go from prompt to playback with Sora from Azure OpenAI in the video playground in Azure AI Foundry</a> appeared first on <a href="https://devblogs.microsoft.com/foundry">Microsoft Foundry Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Uninstall-Graph PowerShell</title>
+    <link href="https://blog.merill.net/p/uninstall-graph-powershell"/>
+    <id>https://blog.merill.net/p/uninstall-graph-powershell</id>
+    <updated>2025-05-29T01:37:34+00:00</updated>
+    <published>2025-05-29T01:37:34+00:00</published>
+    <author><name>merill.net</name></author>
+    <summary type="html"><![CDATA[Free and open source cmdlet to force remove all Microsoft Graph PowerShell modules from your system.]]></summary>
+  </entry>
+  <entry>
+    <title>How I create the Entra.Chat podcast</title>
+    <link href="https://blog.merill.net/p/how-i-create-the-entrachat-podcast"/>
+    <id>https://blog.merill.net/p/how-i-create-the-entrachat-podcast</id>
+    <updated>2025-04-25T04:57:59+00:00</updated>
+    <published>2025-04-25T04:57:59+00:00</published>
+    <author><name>merill.net</name></author>
+    <summary type="html"><![CDATA[Here's my weekly workflow for recording and publishing a weekly podcast.]]></summary>
+  </entry>
+  <entry>
+    <title>Service Principal as a &#x27;Plan B&#x27; emergency access break-glass account</title>
+    <link href="https://blog.merill.net/p/service-principal-as-a-plan-b-emergency"/>
+    <id>https://blog.merill.net/p/service-principal-as-a-plan-b-emergency</id>
+    <updated>2025-04-25T04:00:19+00:00</updated>
+    <published>2025-04-25T04:00:19+00:00</published>
+    <author><name>merill.net</name></author>
+    <summary type="html"><![CDATA[The verdict from the Entra community...]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365 Dev Program Update</title>
+    <link href="https://blog.merill.net/p/microsoft-365-dev-program-update"/>
+    <id>https://blog.merill.net/p/microsoft-365-dev-program-update</id>
+    <updated>2025-04-24T00:38:09+00:00</updated>
+    <published>2025-04-24T00:38:09+00:00</published>
+    <author><name>merill.net</name></author>
+    <summary type="html"><![CDATA[Finally! Microsoft just shared an update on the Microsoft 365 Developer Program.]]></summary>
+  </entry>
+  <entry>
+    <title>Using Pester to regression test Maester tests</title>
+    <link href="https://blog.merill.net/p/using-pester-to-regression-test-maester"/>
+    <id>https://blog.merill.net/p/using-pester-to-regression-test-maester</id>
+    <updated>2025-04-18T02:54:16+00:00</updated>
+    <published>2025-04-18T02:54:16+00:00</published>
+    <author><name>merill.net</name></author>
+    <summary type="html"><![CDATA[Quick write up on regression testing and refactoring with copilot]]></summary>
+  </entry>
+</feed>

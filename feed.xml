@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mario&#x27;s Daily Stream</title>
+  <updated>2026-11-28T11:27:01.559245+00:00</updated>
+  <id>https://mariofontana.github.io/mfontana-rss-mux/feed.xml</id>
+  <link rel="self" href="https://mariofontana.github.io/mfontana-rss-mux/feed.xml"/>
+  <author><name>Mario Fontana</name></author>
+  <entry>
+    <title>Agents overview - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-overview</id>
+    <updated>2026-11-27T19:03:00+00:00</updated>
+    <published>2026-11-27T19:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Agents overview Summarize this article for me In this article Agents in Microsoft Copilot Studio are AI-powered assistants that understand your business context and take action on your behalf. You build agents on one of three harnesses: the Microsoft Copilot harness for reasoning-heavy, multistep work, the Customer Conversation harness for.]]></summary>
+  </entry>
+  <entry>
+    <title>Create a skill for an agent (Microsoft Copilot) - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/skills-create"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/skills-create</id>
+    <updated>2026-11-27T19:03:00+00:00</updated>
+    <published>2026-11-27T19:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Create a skill for an agent (Microsoft Copilot) Summarize this article for me In this article You can create custom skills for your agent from the Build tab, either from scratch or with help from Copilot. Agents powered by the Microsoft Copilot harness support three methods for adding a skill: uploading an existing skill file or package, creating.]]></summary>
+  </entry>
+  <entry>
+    <title>Deploy the unified Microsoft Copilot application</title>
+    <link href="https://learn.microsoft.com/en-us/windows/client-management/deploy-unified-copilot-app"/>
+    <id>https://learn.microsoft.com/en-us/windows/client-management/deploy-unified-copilot-app</id>
+    <updated>2026-11-27T18:32:00+00:00</updated>
+    <published>2026-11-27T18:32:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Deploy the unified Microsoft Copilot application Summarize this article for me In this article Note The Microsoft 365 Copilot app is now called Microsoft Copilot. Microsoft Copilot application updates existing Microsoft Copilot and Microsoft 365 Copilot app installations to a single Copilot application experience. Pilot the unified Copilot.]]></summary>
+  </entry>
+  <entry>
+    <title>Fabric IQ in Microsoft 365 Copilot Chat - Microsoft Fabric</title>
+    <link href="https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview"/>
+    <id>https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview</id>
+    <updated>2026-11-26T06:03:00+00:00</updated>
+    <published>2026-11-26T06:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to ask Microsoft 365 Copilot questions grounded in your Power BI data using Fabric IQ.]]></summary>
+  </entry>
+  <entry>
+    <title>Study guide for Exam AB-620: Designing and Building Integrated AI Solutions in Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-620"/>
+    <id>https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-620</id>
+    <updated>2026-11-25T20:13:00+00:00</updated>
+    <published>2026-11-25T20:13:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Study guide for Exam AB-620: Designing and Building Integrated AI Solutions in Copilot Studio Summarize this article for me In this article Note This exam is in the process of being updated to the Microsoft Copilot harness (formerly known as the GitHub Copilot harness). Purpose of this document This study guide should help you under... Study guide.]]></summary>
+  </entry>
+  <entry>
+    <title>Agents, Copilot, and AI capabilities in Dynamics 365 apps - Dynamics 365</title>
+    <link href="https://learn.microsoft.com/en-us/dynamics365/copilot/ai-get-started"/>
+    <id>https://learn.microsoft.com/en-us/dynamics365/copilot/ai-get-started</id>
+    <updated>2026-11-25T13:04:00+00:00</updated>
+    <published>2026-11-25T13:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn about intelligent AI agents, Copilot experiences, and built‑in AI capabilities and features in Dynamics 365 apps and solutions. Includes ERP and CRM apps such as Sales, Customer Service, Finance, Supply Chain, Business Central, Field Service, Customer Insights, and Commerce.]]></summary>
+  </entry>
+  <entry>
+    <title>Do inconsistent docs hurt AI coding agents?</title>
+    <link href="https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/"/>
+    <id>https://devblogs.microsoft.com/?p=22768</id>
+    <updated>2026-11-25T11:46:06+00:00</updated>
+    <published>2026-11-25T11:46:06+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/">Do inconsistent docs hurt AI coding agents?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Action required: Update app-only permissions for SharePoint tenant App Catalog writes</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/action-required-update-app-only-permissions-for-sharepoint-tenant-app-catalog-writes/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26513</id>
+    <updated>2026-11-25T09:01:55+00:00</updated>
+    <published>2026-11-25T09:01:55+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Starting January 31, 2027, app-only solutions that write to the SharePoint tenant App Catalog will require the SharePointTenantSettings.ReadWrite.All application permission. Review and update your CI/CD pipelines, unattended scripts, and other automated deployment processes before the deadline.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/action-required-update-app-only-permissions-for-sharepoint-tenant-app-catalog-writes/">Action required: Update app-only permissions for SharePoint tenant App Catalog writes</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Select a primary AI model for your agent - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-select-agent-model</id>
+    <updated>2026-11-25T01:03:00+00:00</updated>
+    <published>2026-11-25T01:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Copilot Studio AI model selection lets you choose a primary model for orchestration and compare availability, retirement dates, and admin controls.]]></summary>
+  </entry>
+  <entry>
+    <title>Connect to the Microsoft Copilot Dashboard for Microsoft 365 customers</title>
+    <link href="https://learn.microsoft.com/en-us/viva/insights/org-team-insights/copilot-dashboard"/>
+    <id>https://learn.microsoft.com/en-us/viva/insights/org-team-insights/copilot-dashboard</id>
+    <updated>2026-11-25T00:47:00+00:00</updated>
+    <published>2026-11-25T00:47:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Connect to the Microsoft Copilot Dashboard for Microsoft 365 customers Summarize this article for me In this article Note The Microsoft Copilot Dashboard in Viva Insights is available to any customer with a Microsoft 365 or Office 365 subscription for business or enterprise, and who has an active Exchange Online account.  ...ants with at least 1.]]></summary>
+  </entry>
+  <entry>
+    <title>Workflows overview (Microsoft Copilot) - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/workflows-experience/flows-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/workflows-experience/flows-overview</id>
+    <updated>2026-11-24T19:06:00+00:00</updated>
+    <published>2026-11-24T19:06:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn about workflows, their benefits, and how to use them in Microsoft Copilot Studio.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilot Studio guidance documentation - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/</id>
+    <updated>2026-11-24T19:06:00+00:00</updated>
+    <published>2026-11-24T19:06:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Provides best practice guidance information for Microsoft Copilot Studio.]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot Agent Kit overview - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-overview</id>
+    <updated>2026-11-24T19:06:00+00:00</updated>
+    <published>2026-11-24T19:06:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Discover Power CAT Copilot Agent Kit, a comprehensive set of tools to develop, govern, test, and optimize custom agents using AI and large language models.]]></summary>
+  </entry>
+  <entry>
+    <title>Is “sort by impact” just vibes?</title>
+    <link href="https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/"/>
+    <id>https://devblogs.microsoft.com/?p=22760</id>
+    <updated>2026-11-24T15:23:13+00:00</updated>
+    <published>2026-11-24T15:23:13+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and what we found should change how you ask for a ranking.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/">Is &#8220;sort by impact&#8221; just vibes?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Now available: Cross-region Link to Fabric and Update connection</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/24/now-available-cross-region-link-to-fabric-and-update-connection/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135788</id>
+    <updated>2026-11-24T15:00:00+00:00</updated>
+    <published>2026-11-24T15:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Link to Fabric helps customers bring Microsoft Dataverse data into Fabric without building and maintaining complex data pipelines. Today, we are announcing two updates that make creating and managing these links simpler and more resilient: • Cross-region Link to Fabric: Connect any Dataverse region to any Microsoft Fabric region.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/24/now-available-cross-region-link-to-fabric-and-update-connection/">Now available: Cross-region Link to Fabric and Update connection</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Choose the right document platform for your app: SharePoint Embedded</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/choose-the-right-document-platform-for-your-app-sharepoint-embedded/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26533</id>
+    <updated>2026-11-24T14:00:41+00:00</updated>
+    <published>2026-11-24T14:00:41+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Choosing a document platform is an architectural decision—not simply a storage decision. SharePoint Embedded is designed for applications that need Microsoft 365-grade file and document capabilities while keeping the user experience, business logic, and navigation inside the application.  What SharePoint Embedded is  SharePoint Embedded is a cloud-based, API-only file and document management platform built on [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/choose-the-right-document-platform-for-your-app-sharepoint-embedded/">Choose the right document platform for your app: SharePoint Embedded</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot UX components now available in Cowork with plugins – SPFx roadmap update for November 2026</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-now-available-in-cowork-with-plugins-spfx-roadmap-update-for-november-2026/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26520</id>
+    <updated>2026-11-24T11:21:11+00:00</updated>
+    <published>2026-11-24T11:21:11+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Copilot UX components are now supported and available in Copilot Cowork as plugins, governed centrally with the admin tools you already use. Plus a first look at single page apps in SharePoint, a new UX model planned for preview in SPFx 1.25. As always, the roadmap is shaped by your feedback.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-now-available-in-cowork-with-plugins-spfx-roadmap-update-for-november-2026/">Copilot UX components now available in Cowork with plugins &#8211; SPFx roadmap update for November 2026</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Quotas and limits - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas</id>
+    <updated>2026-11-23T19:07:00+00:00</updated>
+    <published>2026-11-23T19:07:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Quota per Dataverse environment Tenant billing capability 50 RPM / 1,000 RPH 1-10 prepaid message packs 80 RPM / 1,600 RPH 11-50 prepaid message packs 100 RPM / 2,000 RPH 51 - 150 prepaid message packs +1 RPM / +20 RPH Each extra 10 prepaid message packs above 150 10 RPM / 200 RPH Trial or developer environments 100 RPM / 2,000 RPH Pay-as-you-go.]]></summary>
+  </entry>
+  <entry>
+    <title>Do AI coding agents struggle with non-REST APIs?</title>
+    <link href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-struggle-with-non-rest-apis/"/>
+    <id>https://devblogs.microsoft.com/?p=22747</id>
+    <updated>2026-11-23T10:25:28+00:00</updated>
+    <published>2026-11-23T10:25:28+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Should your next API be REST, or something else? And which one will AI coding agents handle best? We tested REST, POST-only and RPC-style APIs with six models across 1,356 runs, and what decided whether agents succeeded had nothing to do with API style.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-struggle-with-non-rest-apis/">Do AI coding agents struggle with non-REST APIs?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Inside the Copilot &amp; Agents Bootcamp: Every Session and Lab, Ready for You to Run</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/copilot-agents-bootcamp/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/copilot-agents-bootcamp/</id>
+    <updated>2026-11-22T04:23:59+00:00</updated>
+    <published>2026-11-21T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[A guided tour of the refreshed Copilot & Agents Bootcamp: the Chat-to-Cowork-to-Copilot Studio narrative, the full three-day agenda with links to every module and lab, and how to run it in your own organization with help from CAT.]]></summary>
+  </entry>
+  <entry>
+    <title>Enable Fabric Copilot for Power BI - Power BI</title>
+    <link href="https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-enable-power-bi"/>
+    <id>https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-enable-power-bi</id>
+    <updated>2026-11-20T22:09:00+00:00</updated>
+    <published>2026-11-20T22:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Enable Fabric Copilot for Power BI Summarize this article for me In this article Applies to: ✅ Power BI Desktop and Power BI service Learn how to enable Fabric Copilot for Power BI in your organizational tenant. This article explains how to enable Copilot in your tenant, start using Copilot in the Power BI service, and start using Copilot in Power.]]></summary>
+  </entry>
+  <entry>
+    <title>Prepare Your Data for AI to Improve Copilot Results (Preview) - Power BI</title>
+    <link href="https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prepare-data-ai"/>
+    <id>https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prepare-data-ai</id>
+    <updated>2026-11-20T22:09:00+00:00</updated>
+    <published>2026-11-20T22:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Prepare your data for AI to improve Copilot results (preview) Summarize this article for me In this article Use Prep data for AI in Power BI to improve Copilot response quality before sharing reports. This article explains how to prepare a semantic model by using AI data schemas, verified answers, and AI instructions to reduce ambiguity and.]]></summary>
+  </entry>
+  <entry>
+    <title>Create and Edit Power BI Reports with Copilot - Power BI</title>
+    <link href="https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-reports"/>
+    <id>https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-reports</id>
+    <updated>2026-11-20T22:09:00+00:00</updated>
+    <published>2026-11-20T22:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to use Copilot in Power BI to quickly create and edit reports with natural language prompts. Save hours building report pages with AI assistance.]]></summary>
+  </entry>
+  <entry>
+    <title>Discover and review Power Pages sites with Power Platform inventory (public preview)</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/discover-and-review-power-pages-sites-with-power-platform-inventory-public-preview/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135742</id>
+    <updated>2026-11-20T07:08:22+00:00</updated>
+    <published>2026-11-20T07:08:22+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Support for Power Pages sites in Power Platform inventory is now in public preview. Administrators can now discover and review sites across environments in one place, alongside apps, flows, and agents.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/discover-and-review-power-pages-sites-with-power-platform-inventory-public-preview/">Discover and review Power Pages sites with Power Platform inventory (public preview)</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Use Copilot Cowork to dig deep into your Power Platform credit consumption data</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/copilot-cowork-credit-analysis/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/copilot-cowork-credit-analysis/</id>
+    <updated>2026-11-20T00:00:00+00:00</updated>
+    <published>2026-11-20T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Use the Power Platform Admin plugin in Copilot Cowork to explore Copilot Credit consumption by environment, create charts, and plan recurring reports.]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot Credit P3 - Microsoft Cost Management</title>
+    <link href="https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/copilot-credit-p3"/>
+    <id>https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/copilot-credit-p3</id>
+    <updated>2026-11-19T23:26:00+00:00</updated>
+    <published>2026-11-19T23:26:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Optimize Copilot Credit costs with a pre-purchase plan Summarize this article for me In this article Important Changes to Copilot Credit pre-purchase plan availability starting January 1, 2027 Starting January 1, 2027, you can buy or renew the Copilot Credit pre-purchase plan only through an Enterprise Agreement (EA) or a Cloud Solution Provider.]]></summary>
+  </entry>
+  <entry>
+    <title>Data, privacy, and security for web search in Microsoft Copilot and Microsoft Copilot Chat</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/plan/manage-public-web-access"/>
+    <id>https://learn.microsoft.com/en-us/copilot/plan/manage-public-web-access</id>
+    <updated>2026-11-19T17:27:00+00:00</updated>
+    <published>2026-11-19T17:27:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Data, privacy, and security for web search in Microsoft Copilot and Microsoft Copilot Chat Summarize this article for me In this article Microsoft Copilot and Microsoft Copilot Chat have an optional feature that allows Copilot to reference web content when responding to user prompts.  ...he web search functionalityMicrosoft Copilot Search is an.]]></summary>
+  </entry>
+  <entry>
+    <title>Configure Copilot features in the help pane</title>
+    <link href="https://learn.microsoft.com/en-us/dynamics365/contact-center/administer/copilot-enable-help-pane"/>
+    <id>https://learn.microsoft.com/en-us/dynamics365/contact-center/administer/copilot-enable-help-pane</id>
+    <updated>2026-11-19T01:06:00+00:00</updated>
+    <published>2026-11-19T01:06:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to configure Copilot experiences, knowledge filters, prompts, and agents in the Copilot help pane.]]></summary>
+  </entry>
+  <entry>
+    <title>About agents powered by the Microsoft Copilot harness - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/overview</id>
+    <updated>2026-11-18T19:04:00+00:00</updated>
+    <published>2026-11-18T19:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[About agents powered by the Microsoft Copilot harness Summarize this article for me In this article The Microsoft Copilot harness is a redesigned authoring and runtime environment for building AI agents. It introduces a natural-language-first approach to agent creation, a unified single-surface design, and an enhanced orchestration model that i....]]></summary>
+  </entry>
+  <entry>
+    <title>Start building - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/authoring-first-bot"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/authoring-first-bot</id>
+    <updated>2026-11-18T19:04:00+00:00</updated>
+    <published>2026-11-18T19:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Discover what you can build in Microsoft Copilot Studio from the home page—agents, workflows, and agent flows—and find the right place to start.]]></summary>
+  </entry>
+  <entry>
+    <title>Turn AI ambition into real business value with Power Platform</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135681</id>
+    <updated>2026-11-18T19:00:00+00:00</updated>
+    <published>2026-11-18T19:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>At Microsoft Ignite 2026, see how Power Platform helps you put AI to work without starting over.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/18/turn-ai-ambition-into-real-business-value-with-power-platform/">Turn AI ambition into real business value with Power Platform </a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Manage Copilot Cowork for your organization</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/cowork/cowork-admin-governance"/>
+    <id>https://learn.microsoft.com/en-us/copilot/cowork/cowork-admin-governance</id>
+    <updated>2026-11-18T17:05:00+00:00</updated>
+    <published>2026-11-18T17:05:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to manage Microsoft Copilot Cowork for your organization.]]></summary>
+  </entry>
+  <entry>
+    <title>Frontier Tuning opens to more customers, with new tools for your teams</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/frontier-tuning-opens-to-more-customers-with-new-tools-for-your-teams/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26472</id>
+    <updated>2026-11-18T16:00:06+00:00</updated>
+    <published>2026-11-18T16:00:06+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Frontier Tuning is expanding its private preview, giving makers, developers, and subject-matter experts new tools to tune AI for specialized work using their organization’s own expertise and standards. See what’s new, how EY is putting Frontier Tuning to work, and how your organization can join the private preview.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/frontier-tuning-opens-to-more-customers-with-new-tools-for-your-teams/">Frontier Tuning opens to more customers, with new tools for your teams</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>SPFx Dev Skills for SPFx 1.24.1: tested across agents and models</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/spfx-dev-skills-for-spfx-1-24-1-tested-across-agents-and-models/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26499</id>
+    <updated>2026-11-18T11:56:00+00:00</updated>
+    <published>2026-11-18T11:56:00+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>SPFx Dev Skills v1.1.2 adds support for SPFx v1.24.1 and React 18 migration. Across 105 evaluation runs, the updated skill improved upgrade quality for every agent and model combination we tested, with 6 of 7 reaching a 100% mean score.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/spfx-dev-skills-for-spfx-1-24-1-tested-across-agents-and-models/">SPFx Dev Skills for SPFx 1.24.1: tested across agents and models</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Official Microsoft Power Platform documentation - Power Platform</title>
+    <link href="https://learn.microsoft.com/en-us/power-platform/"/>
+    <id>https://learn.microsoft.com/en-us/power-platform/</id>
+    <updated>2026-11-18T07:04:00+00:00</updated>
+    <published>2026-11-18T07:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[...Power Automate videos Power BI Power BI documentation Power BI training Power BI videos Power Pages Power Pages documentation Power Pages training Power Pages videos Power Platform capabilities Extend your solutions with AI Builder, connectors, CopilotAI Builder Connectors Copilots and generative AI Microsoft Dataverse Power Fx Power Platform.]]></summary>
+  </entry>
+  <entry>
+    <title>Move data across regions for Copilots, AI agents, and generative AI features - Power Platform</title>
+    <link href="https://learn.microsoft.com/en-us/power-platform/admin/geographical-availability-copilot"/>
+    <id>https://learn.microsoft.com/en-us/power-platform/admin/geographical-availability-copilot</id>
+    <updated>2026-11-18T07:04:00+00:00</updated>
+    <published>2026-11-18T07:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to turn on data movement across regions for Copilots and generative AI features.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilot Managed Runtime overview for admins - Microsoft 365 admin</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-365/admin/manage/apps/"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-365/admin/manage/apps/</id>
+    <updated>2026-11-18T03:31:00+00:00</updated>
+    <published>2026-11-18T03:31:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft Copilot Managed Runtime overview for admins Summarize this article for me In this article Microsoft Copilot Managed Runtime helps teams build and run line-of-business agentic applications that automatically comply with your organization's IT governance policies. Copilot Managed Runtime architecture: how the Copilot Managed Runtime host,.]]></summary>
+  </entry>
+  <entry>
+    <title>Create your first cloud flow using Copilot - Power Automate</title>
+    <link href="https://learn.microsoft.com/en-us/power-automate/create-cloud-flow-using-copilot"/>
+    <id>https://learn.microsoft.com/en-us/power-automate/create-cloud-flow-using-copilot</id>
+    <updated>2026-11-18T01:03:00+00:00</updated>
+    <published>2026-11-18T01:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Create your first cloud flow using Copilot Summarize this article for me In this article Copilot in cloud flows helps you create automation that streamlines your workflow. The cloud flows Copilot can: Understand your intent and create a flow based on the scenario prompt you provide. This capability is powered by Azure OpenAI Service. For more.]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing the Starter Pack for Work IQ</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/introducing-the-starter-pack-for-work-iq/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26432</id>
+    <updated>2026-11-17T23:15:21+00:00</updated>
+    <published>2026-11-17T23:15:21+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Announcing the Starter Pack for Work IQ Anyone who has prepared a Copilot demo or who wanted to play with Copilot and Work IQ without touching real business data knows the hardest part is the lack of demo/test content in the target tenant: no emails worth summarizing, no meetings to recap, no documents or business [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/introducing-the-starter-pack-for-work-iq/">Introducing the Starter Pack for Work IQ</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Azure Copilot</title>
+    <link href="https://learn.microsoft.com/en-us/azure/copilot/"/>
+    <id>https://learn.microsoft.com/en-us/azure/copilot/</id>
+    <updated>2026-11-17T19:56:00+00:00</updated>
+    <published>2026-11-17T19:56:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Manage operations from cloud to edge with an AI assistant.]]></summary>
+  </entry>
+  <entry>
+    <title>Share agents with other users - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-share-bots"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-share-bots</id>
+    <updated>2026-11-17T19:03:00+00:00</updated>
+    <published>2026-11-17T19:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Share Microsoft Copilot Studio agents with other users, assign security roles to users, and work together.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft and Oracle bring agentic AI into flow of enterprise work</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55303</id>
+    <updated>2026-11-17T18:35:00+00:00</updated>
+    <published>2026-11-17T18:35:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Our new integrations let AI agents reason across Oracle’s business-critical data.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/">Microsoft and Oracle bring agentic AI into flow of enterprise work</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations</title>
+    <link href="https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55161</id>
+    <updated>2026-11-17T18:35:00+00:00</updated>
+    <published>2026-11-17T18:35:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>At Microsoft Ignite 2026, we’ll showcase what’s possible when models, silicon, and cloud infrastructure converge into a single, co-engineered system. By tuning the entire stack, and introducing new capabilities across isolated execution, networking, context management, and inference efficiency, we’re fundamentally improving agent speed, security, and unit economics.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/">Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI</title>
+    <link href="https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55004</id>
+    <updated>2026-11-17T18:35:00+00:00</updated>
+    <published>2026-11-17T18:35:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>At Microsoft Ignite, we're sharing what's new across every layer of the platform. New capabilities spanning compute, storage, and networking let you run AI at scale with the control of your own infrastructure, without having to build, secure, and operate all of it yourself.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/">Microsoft Ignite 2026: What&#8217;s new in Azure, the platform purpose-built for AI</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era</title>
+    <link href="https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55002</id>
+    <updated>2026-11-17T18:20:00+00:00</updated>
+    <published>2026-11-17T18:20:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Azure Cobalt 200 VMs bring improved performance and efficiency to cloud-native applications, databases, developer tools, and agentic AI workloads.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/">Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Usage-Based Billing and Cost Management for Copilot Credits</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/plan/usage-based-billing-overview-copilot-credits"/>
+    <id>https://learn.microsoft.com/en-us/copilot/plan/usage-based-billing-overview-copilot-credits</id>
+    <updated>2026-11-17T18:16:00+00:00</updated>
+    <published>2026-11-17T18:16:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Understand usage-based billing and cost management for Copilot Credits Summarize this article for me In this article Microsoft's usage-based billing model charges customers based on actual usage, measured in Copilot Credits. Depending on the service, organizations can use fixed licensing, the Copilot Credit Pre-purchase Plan (P3), pay-as-you-go.]]></summary>
+  </entry>
+  <entry>
+    <title>Continuous improvement comes to Microsoft Foundry</title>
+    <link href="https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55141</id>
+    <updated>2026-11-17T18:15:00+00:00</updated>
+    <published>2026-11-17T18:15:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams in control.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/">Continuous improvement comes to Microsoft Foundry</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Work Smarter with Microsoft Copilot Chat - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/work-smarter-with-microsoft-365-copilot-chat/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/work-smarter-with-microsoft-365-copilot-chat/</id>
+    <updated>2026-11-17T18:08:00+00:00</updated>
+    <published>2026-11-17T18:08:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Work smarter with Microsoft Copilot Chat Beginner Business User Microsoft Copilot Get started with Microsoft Copilot Chat to prepare a brief from first question to shared result. This module supports learners with or without a Microsoft 365 Copilot add-on license. Important Your experience with Microsoft Copilot Chat may differ from what is ....]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing the new Microsoft IQ: Putting your organization’s intelligence to work in every agent</title>
+    <link href="https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=55320</id>
+    <updated>2026-11-17T18:05:00+00:00</updated>
+    <published>2026-11-17T18:05:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Today, we are announcing Microsoft IQ, the enterprise context management platform that helps organizations create their own IQ. What sets an organization apart is everything around the model: its own intelligence.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/">Introducing the new Microsoft IQ: Putting your organization&#8217;s intelligence to work in every agent</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot Code overview  (Frontier)</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/code/overview"/>
+    <id>https://learn.microsoft.com/en-us/copilot/code/overview</id>
+    <updated>2026-11-17T17:59:00+00:00</updated>
+    <published>2026-11-17T17:59:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Copilot Code overview (Frontier) Summarize this article for me In this article Important This is a preview feature provided under Microsoft Product Terms. Preview features may have restricted functionality and may not be released for general availability. Frontier connects you directly with Microsoft's latest AI innovations. The Code tab in.]]></summary>
+  </entry>
+  <entry>
+    <title>Manage Copilot Code for your organization (Frontier)</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/code/code-admin"/>
+    <id>https://learn.microsoft.com/en-us/copilot/code/code-admin</id>
+    <updated>2026-11-17T17:59:00+00:00</updated>
+    <published>2026-11-17T17:59:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Manage Copilot Code for your organization (Frontier) Summarize this article for me In this article Important This is a preview feature provided under Microsoft Product Terms. The Code tab in Microsoft Copilot lets people in your organization build working software from a plain-language description, on their own device or in the cloud. Copilot Code.]]></summary>
+  </entry>
+  <entry>
+    <title>Get started with Copilot Code (Frontier)</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/code/get-started"/>
+    <id>https://learn.microsoft.com/en-us/copilot/code/get-started</id>
+    <updated>2026-11-17T17:59:00+00:00</updated>
+    <published>2026-11-17T17:59:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get started with Copilot Code in Microsoft Copilot. Describe the app, dashboard, or script you want, preview it live, and refine it. Start building today.]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot Code (Frontier)</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/code/"/>
+    <id>https://learn.microsoft.com/en-us/copilot/code/</id>
+    <updated>2026-11-17T17:59:00+00:00</updated>
+    <published>2026-11-17T17:59:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Copilot Code in Microsoft Copilot turns plain-language descriptions into working apps, dashboards, and scripts. Learn how to build your first project today.]]></summary>
+  </entry>
+  <entry>
+    <title>Use Copilot Code (Frontier)</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/code/use-code"/>
+    <id>https://learn.microsoft.com/en-us/copilot/code/use-code</id>
+    <updated>2026-11-17T17:59:00+00:00</updated>
+    <published>2026-11-17T17:59:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Turn ideas into interactive tools with Copilot Code in Microsoft Copilot. Learn how to prompt effectively, iterate one change at a time, and share apps with confidence.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilot Managed Runtime</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-365/copilot-managed-runtime/"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-365/copilot-managed-runtime/</id>
+    <updated>2026-11-17T15:00:00+00:00</updated>
+    <published>2026-11-17T15:00:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn about Microsoft Copilot Managed Runtime, an IT-governed, enterprise-grade platform for running code inside your Microsoft 365 tenant, with built-in sharing, live data connections, and easy app access.]]></summary>
+  </entry>
+  <entry>
+    <title>New Capabilities for Building Digital Teammates in Microsoft Teams</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/new-capabilities-for-building-digital-teammates-in-microsoft-teams/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26458</id>
+    <updated>2026-11-17T10:00:34+00:00</updated>
+    <published>2026-11-17T10:00:34+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Agents are becoming part of how people work together. In Microsoft Teams, developers can build agents that do more than respond to requests. They can participate in conversations, contribute to shared work and help people move from discussion to decision and action. As part of the broader Microsoft 365 Copilot agent ecosystem, Teams brings these [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/new-capabilities-for-building-digital-teammates-in-microsoft-teams/">New Capabilities for Building Digital Teammates in Microsoft Teams</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Security and governance - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance</id>
+    <updated>2026-11-17T01:03:00+00:00</updated>
+    <published>2026-11-17T01:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Key concepts - Copilot Studio security and governance Summarize this article for me In this article Copilot Studio follows a number of security and governance controls and processes, including geographic data residency, data loss prevention (DLP), multiple standards certifications, regulatory compliance, environment routing, and regional.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365 Copilot APIs Overview</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/copilot-apis-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/copilot-apis-overview</id>
+    <updated>2026-11-16T23:05:00+00:00</updated>
+    <published>2026-11-16T23:05:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft 365 Copilot APIs overview Summarize this article for me In this article The Microsoft 365 Copilot APIs enable you to securely access Microsoft 365 Copilot capabilities in your own applications and custom engine agents, while aligning with compliance standards of Microsoft 365. Whether you're building a custom engine agent for Microsoft.]]></summary>
+  </entry>
+  <entry>
+    <title>Federated connectors overview - Microsoft 365 Copilot connectors</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview</id>
+    <updated>2026-11-16T20:48:00+00:00</updated>
+    <published>2026-11-16T20:48:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Federated connectors overview Summarize this article for me In this article Important Work IQ Dev Tools (preview) - Work IQ Dev Tools (wiqd) are experimental, prerelease tools for building, validating, provisioning, packaging, publishing, evaluating, and monitoring Microsoft 365 Copilot declarative agents from the terminal. Microsoft 365 Copilot.]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365 Developer Program updates: new sandbox options and retirement of legacy sandboxes</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-updates-new-sandbox-options-and-retirement-of-legacy-sandboxes/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26425</id>
+    <updated>2026-11-16T15:47:51+00:00</updated>
+    <published>2026-11-16T15:47:51+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Microsoft 365 Developer Program is moving to a more flexible sandbox model with optional paid add-ons and retiring legacy subscriptions. Learn how to check whether your sandbox is affected, prepare for the transition, and continue developing through eligible program benefits, including qualifying Visual Studio subscriptions, or paid Microsoft 365 plans.</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/microsoft-365-developer-program-updates-new-sandbox-options-and-retirement-of-legacy-sandboxes/">Microsoft 365 Developer Program updates: new sandbox options and retirement of legacy sandboxes</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Using advanced GitHub Copilot features - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/</id>
+    <updated>2026-11-16T08:28:00+00:00</updated>
+    <published>2026-11-16T08:28:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Use advanced features of GitHub Copilot with Visual Studio Code to make changes and updates to a Python application.]]></summary>
+  </entry>
+  <entry>
+    <title>Get More Done with Copilot Cowork - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/delegate-work-copilot-cowork/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/delegate-work-copilot-cowork/</id>
+    <updated>2026-11-14T00:11:00+00:00</updated>
+    <published>2026-11-14T00:11:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get more done with Copilot Cowork Beginner Business User Business Owner Microsoft Copilot Microsoft 365 Microsoft 365 Apps Copilot Cowork carries out tasks on your behalf across Microsoft 365. Learning objectives After completing this module, you'll be able to: Differentiate Copilot Chat, agents, and Cowork and choose the right AI tool for the.]]></summary>
+  </entry>
+  <entry>
+    <title>Get started with Microsoft Copilot Studio - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/</id>
+    <updated>2026-11-13T18:16:00+00:00</updated>
+    <published>2026-11-13T18:16:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get started with Microsoft Copilot Studio Beginner Intermediate Functional Consultant Developer App Maker Microsoft Copilot Microsoft Copilot Studio Microsoft Copilot Studio is a graphical, low-code studio for building and managing agents and workflows. In this module, you explore the three agent harnesses and compare the classic, now called.]]></summary>
+  </entry>
+  <entry>
+    <title>Design and Configure Agents in Microsoft Copilot Studio (Microsoft Copilot) - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/design-configure-agents-github-copilot-copilot-studio/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/design-configure-agents-github-copilot-copilot-studio/</id>
+    <updated>2026-11-13T18:16:00+00:00</updated>
+    <published>2026-11-13T18:16:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Design and configure agents in Microsoft Copilot Studio (Microsoft Copilot) At a glance Level Intermediate Skill &nbsp; Product Microsoft Copilot Studio Role App Maker Functional Consultant Subject Artificial intelligence Automation Plan and configure agents powered by the Microsoft Copilot harness in Microsoft Copilot Studio. Plan and configure.]]></summary>
+  </entry>
+  <entry>
+    <title>What&#x27;s new in Copilot Studio - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/whats-new"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/whats-new</id>
+    <updated>2026-11-12T19:07:00+00:00</updated>
+    <published>2026-11-12T19:07:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[What's new in Copilot Studio Summarize this article for me In this article This article provides resources to learn about new features in Copilot Studio. Released versions Get an overview of new capabilities in the Roadmap. October 2026 (Preview) Build agents powered by the new Customer Conversation harness to handle customer-facing conversations.]]></summary>
+  </entry>
+  <entry>
+    <title>Work IQ in Microsoft Copilot Studio (Microsoft Copilot) - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/add-work-iq"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/add-work-iq</id>
+    <updated>2026-11-12T19:07:00+00:00</updated>
+    <published>2026-11-12T19:07:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to connect and configure Work IQ in Microsoft Copilot Studio, select workloads for your agent, and turn on preview workloads.]]></summary>
+  </entry>
+  <entry>
+    <title>Agent flows overview - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-overview"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-overview</id>
+    <updated>2026-11-12T19:07:00+00:00</updated>
+    <published>2026-11-12T19:07:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn about agent flows, their benefits, and how to use them in Microsoft Copilot Studio.]]></summary>
+  </entry>
+  <entry>
+    <title>Call Microsoft Copilot Studio agents from Power Automate - Power Automate</title>
+    <link href="https://learn.microsoft.com/en-us/power-automate/call-copilot-studio-agent"/>
+    <id>https://learn.microsoft.com/en-us/power-automate/call-copilot-studio-agent</id>
+    <updated>2026-11-12T19:03:00+00:00</updated>
+    <published>2026-11-12T19:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to call Copilot Studio agents from Power Automate or use them in Copilot Studio workflows, based on the agent harness.]]></summary>
+  </entry>
+  <entry>
+    <title>From AI ambition to business impact</title>
+    <link href="https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=129044</id>
+    <updated>2026-11-12T17:03:22+00:00</updated>
+    <published>2026-11-12T17:03:22+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots.</p>
+<p>The post <a href="https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/">From AI ambition to business impact</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Scaling AI value without losing control: Lessons from Frontier Firms</title>
+    <link href="https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=129031</id>
+    <updated>2026-11-12T16:27:13+00:00</updated>
+    <published>2026-11-12T16:27:13+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales.</p>
+<p>The post <a href="https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/">Scaling AI value without losing control: Lessons from Frontier Firms</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Before you switch models: Assess your Copilot Studio agent with Model Assessment</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/model-assessment/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/model-assessment/</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <published>2026-11-12T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Compare a Copilot Studio agent across models with Model Assessment: inspect shared evaluation checks, investigate regressions, and weigh reported Copilot Credits before choosing a model.]]></summary>
+  </entry>
+  <entry>
+    <title>Call Microsoft Copilot Harness Agents from Other Copilot Studio Agents with MCP and A2A</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/call-ghcp-harness-agents-mcp-a2a/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/call-ghcp-harness-agents-mcp-a2a/</id>
+    <updated>2026-11-12T00:00:00+00:00</updated>
+    <published>2026-11-12T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Configure a standard agent to call a Microsoft Copilot harness agent (formerly GitHub Copilot harness) over MCP, and harness agents to call each other across environments over A2A, with OBO sign-in for other users.]]></summary>
+  </entry>
+  <entry>
+    <title>Act faster: hourly alerts for your critical flows, apps, and agents</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/11/act-faster-hourly-alerts-for-your-critical-flows-apps-and-agents/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135582</id>
+    <updated>2026-11-11T17:00:00+00:00</updated>
+    <published>2026-11-11T17:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Spot performance and reliability issues sooner with hourly alerts in Monitor. By checking supported health metrics hourly instead of daily, these alerts help your team identify issues across apps, flows, and agents—and respond faster when thresholds are breached.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/11/act-faster-hourly-alerts-for-your-critical-flows-apps-and-agents/">Act faster: hourly alerts for your critical flows, apps, and agents</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Make business content ready for AI with M-Files – SharePoint Embedded partner spotlight</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/make-business-content-ready-for-ai-with-m-files-sharepoint-embedded-partner-spotlight/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26422</id>
+    <updated>2026-11-11T14:00:54+00:00</updated>
+    <published>2026-11-11T14:00:54+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>What happens when intelligent information management meets the Microsoft 365 ecosystem?  Organizations are looking for better ways to manage growing volumes of business-critical content while preparing that content for AI. As they’re building custom apps, they want strong context and governance along with the Microsoft 365 environments, tools, and security practices they already rely on.  [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/make-business-content-ready-for-ai-with-m-files-sharepoint-embedded-partner-spotlight/">Make business content ready for AI with M-Files &#8211; SharePoint Embedded partner spotlight</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Security Copilot in Intune features overview - Microsoft Intune</title>
+    <link href="https://learn.microsoft.com/en-us/intune/copilot/"/>
+    <id>https://learn.microsoft.com/en-us/intune/copilot/</id>
+    <updated>2026-11-11T08:32:00+00:00</updated>
+    <published>2026-11-11T08:32:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft Security Copilot in Intune is an AI platform. It can help you create policies, get information about existing policies, and show more details on specific settings, including their impacts on users and devices. You can also use Copilot to troubleshoot device issues and query devices.]]></summary>
+  </entry>
+  <entry>
+    <title>Disabling Adaptive Cards After Submission in Copilot Studio Agents</title>
+    <link href="https://microsoft.github.io/mcscatblog/posts/disable-adaptive-cards-after-submission/"/>
+    <id>https://microsoft.github.io/mcscatblog/posts/disable-adaptive-cards-after-submission/</id>
+    <updated>2026-11-11T00:00:00+00:00</updated>
+    <published>2026-11-11T00:00:00+00:00</published>
+    <author><name>The Custom Engine</name></author>
+    <summary type="html"><![CDATA[Two proven patterns to disable or replace Adaptive Cards after submission: one for custom web portals using WebChat, and one for Microsoft Teams using Universal Actions.]]></summary>
+  </entry>
+  <entry>
+    <title>What’s new in Power Platform: October/November 2026 feature update</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-october-2026-feature-update/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135130</id>
+    <updated>2026-11-10T16:00:37+00:00</updated>
+    <published>2026-11-10T16:00:37+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Power Apps Public preview: Build flexible file experiences with modern attachments The new modern attachments control gives makers a Fluent file experience that works inside forms or as a standalone control on a canvas.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-october-2026-feature-update/">What’s new in Power Platform: October/November 2026 feature update</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot in Visual Studio Just Got a Major Upgrade</title>
+    <link href="https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/"/>
+    <id>https://devblogs.microsoft.com/visualstudio/?p=257637</id>
+    <updated>2026-11-10T08:00:35+00:00</updated>
+    <published>2026-11-10T08:00:35+00:00</published>
+    <author><name>GitHub Copilot - Category | Visual Studio Blog</name></author>
+    <summary type="html"><![CDATA[<p>Copilot Chat in Visual Studio just got a new engine. Starting with Visual Studio 2026 version 18.12, it runs on the Microsoft Copilot SDK developed by GitHub, the same technology powering GitHub Copilot CLI, the GitHub Copilot app, and VS Code. It’s on by default, and it’s a major upgrade: same models, more tasks solved, [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/">Copilot in Visual Studio Just Got a Major Upgrade</a> appeared first on <a href="https://devblogs.microsoft.com/visualstudio">Visual Studio Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilot Usage Report - Microsoft 365 admin</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage</id>
+    <updated>2026-11-09T18:35:00+00:00</updated>
+    <published>2026-11-09T18:35:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft Copilot usage report Summarize this article for me In this article The Microsoft Copilot usage report provides a summary of how users adopt, retain, and engage with Microsoft Copilot and its associated enabled apps. For Copilot activity on a given day, the report typically becomes available within 48 hours of the end of that day (in.]]></summary>
+  </entry>
+  <entry>
+    <title>Do AI coding agents care about SemVer?</title>
+    <link href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/"/>
+    <id>https://devblogs.microsoft.com/?p=22686</id>
+    <updated>2026-11-09T16:01:03+00:00</updated>
+    <published>2026-11-09T16:01:03+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your version numbers, and what a patch label talks them out of.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/">Do AI coding agents care about SemVer?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128897</id>
+    <updated>2026-11-09T16:00:00+00:00</updated>
+    <published>2026-11-09T16:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Frontier Accelerate brings Microsoft expertise, investments, and skilling together in one package to help you scale AI with confidence.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/">Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills </a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>New Authentication Governance Controls in Power Pages</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/new-authentication-governance-controls-in-power-pages/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135614</id>
+    <updated>2026-11-09T15:54:30+00:00</updated>
+    <published>2026-11-09T15:54:30+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>We&#8217;re excited to announce the public preview of new authentication governance controls in Power Pages. Administrators can now allow or block individual authentication protocols, supported OAuth 2.0 identity providers, and local authentication from the Power Platform admin center (PPAC).</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/new-authentication-governance-controls-in-power-pages/">New Authentication Governance Controls in Power Pages</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</title>
+    <link href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54939</id>
+    <updated>2026-11-06T19:08:44+00:00</updated>
+    <published>2026-11-06T19:08:44+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>
+<p>The post <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032">Building the next generation of multimodal AI experiences with fal in Microsoft Foundry</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Create and edit non-SPA Power Pages sites with Agentic Coding tools</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-and-edit-non-spa-power-pages-sites-with-agentic-coding-tools/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135555</id>
+    <updated>2026-11-06T17:26:59+00:00</updated>
+    <published>2026-11-06T17:26:59+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>We&#8217;re pleased to introduce preview support for Power Pages sites built with web templates and Liquid (non-SPA or traditional portals). With the Power Pages plugin for GitHub Copilot CLI and Claude Code, describe the site you want to create or edit. The plugin helps you build pages, update content and templates, and customize styling.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-pages/create-and-edit-non-spa-power-pages-sites-with-agentic-coding-tools/">Create and edit non-SPA Power Pages sites with Agentic Coding tools</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Work IQ: SharePoint Tools</title>
+    <link href="https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/"/>
+    <id>https://devblogs.microsoft.com/microsoft365dev/?p=26276</id>
+    <updated>2026-11-06T08:30:50+00:00</updated>
+    <published>2026-11-06T08:30:50+00:00</published>
+    <author><name>Microsoft 365 Developer Blog</name></author>
+    <summary type="html"><![CDATA[<p>Bring SharePoint into your custom apps and agents with Work IQ API New SharePoint tools are coming to the Work IQ API, bringing SharePoint content and actions to your custom apps and agents through the same workplace intelligence layer that powers Microsoft Copilot. Work IQ connects AI to your organization’s knowledge, people, and workflows, combining [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/">Work IQ: SharePoint Tools</a> appeared first on <a href="https://devblogs.microsoft.com/microsoft365dev">Microsoft 365 Developer Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Stop treating agents as one-off projects and start running them as a continuous discipline</title>
+    <link href="https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54831</id>
+    <updated>2026-11-05T17:00:00+00:00</updated>
+    <published>2026-11-05T17:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/">Stop treating agents as one-off projects and start running them as a continuous discipline</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</title>
+    <link href="https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54813</id>
+    <updated>2026-11-05T16:00:00+00:00</updated>
+    <published>2026-11-05T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/">Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Your best AX fixes are hiding in agent trajectories</title>
+    <link href="https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/"/>
+    <id>https://devblogs.microsoft.com/?p=22671</id>
+    <updated>2026-11-05T15:40:49+00:00</updated>
+    <published>2026-11-05T15:40:49+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runner's network traffic. Here are the patterns to look for in your own agents' trajectories, and what to change in your product when you find them.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/">Your best AX fixes are hiding in agent trajectories</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Data, Privacy, and Security for Microsoft Copilot</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/plan/microsoft-365-copilot-privacy"/>
+    <id>https://learn.microsoft.com/en-us/copilot/plan/microsoft-365-copilot-privacy</id>
+    <updated>2026-11-04T21:31:00+00:00</updated>
+    <published>2026-11-04T21:31:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Data, Privacy, and Security for Microsoft Copilot Summarize this article for me In this article Microsoft Copilot is a sophisticated processing and orchestration engine that provides AI-powered productivity capabilities by coordinating the following components: Large language models (LLMs) Content in Microsoft Graph, such as emails, chats, and.]]></summary>
+  </entry>
+  <entry>
+    <title>License Options for Microsoft Copilot</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/plan/copilot-license-options"/>
+    <id>https://learn.microsoft.com/en-us/copilot/plan/copilot-license-options</id>
+    <updated>2026-11-04T18:33:00+00:00</updated>
+    <published>2026-11-04T18:33:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[License options for Microsoft Copilot Summarize this article for me In this article Microsoft Copilot is available with Microsoft 365 E7 or as an add-on for eligible commercial, US Government, and education subscription plans. Before you purchase or assign license... Microsoft Copilot licenses The following plans are eligible prerequisite licenses.]]></summary>
+  </entry>
+  <entry>
+    <title>Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</title>
+    <link href="https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/"/>
+    <id>https://azure.microsoft.com/en-us/blog/?p=54784</id>
+    <updated>2026-11-04T16:00:00+00:00</updated>
+    <published>2026-11-04T16:00:00+00:00</published>
+    <author><name>Microsoft Azure Blog</name></author>
+    <summary type="html"><![CDATA[<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.</p>
+<p>The post <a href="https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/">Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads</a> appeared first on <a href="https://azure.microsoft.com/en-us/blog">Microsoft Azure Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Deploy the Microsoft 365 Copilot App</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/implement/deploy-microsoft-365-copilot-app"/>
+    <id>https://learn.microsoft.com/en-us/copilot/implement/deploy-microsoft-365-copilot-app</id>
+    <updated>2026-11-03T21:58:00+00:00</updated>
+    <published>2026-11-03T21:58:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Deployment overview for the Microsoft 365 Copilot app Summarize this article for me In this article Note Microsoft 365 Copilot is now named Microsoft Copilot, and Microsoft 365 Copilot Chat is now named Microsoft Copilot Chat. This article applies to the former Microsoft 365 Copilot app.  ...ty, compliance, and privacy for organizationsThe.]]></summary>
+  </entry>
+  <entry>
+    <title>Manage Copilot Chat</title>
+    <link href="https://learn.microsoft.com/en-us/copilot/manage/manage-copilot-chat"/>
+    <id>https://learn.microsoft.com/en-us/copilot/manage/manage-copilot-chat</id>
+    <updated>2026-11-03T21:58:00+00:00</updated>
+    <published>2026-11-03T21:58:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Manage Copilot Chat Summarize this article for me In this article Note Microsoft 365 Copilot is now named Microsoft Copilot, and Microsoft 365 Copilot Chat is now named Microsoft Copilot Chat. With this change, the primary URL for accessing the updated Copilot app is copilot.cloud.microsoft. To help ensure users' connections aren't blocked, see.]]></summary>
+  </entry>
+  <entry>
+    <title>Dataverse goes where you build: Copilot Cowork, coding agents and n8n</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/02/dataverse-for-coding-agents-n8n-copilot-cowork/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135401</id>
+    <updated>2026-11-02T16:00:00+00:00</updated>
+    <published>2026-11-02T16:00:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Dataverse plugin and native integrations now reach Copilot Cowork, GitHub Copilot, Claude, Codex and ChatGPT, Cursor, Gemini CLI, Google Antigravity and n8n, so developers and makers get the same trusted business data and guardrails in the tools they already use.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/11/02/dataverse-for-coding-agents-n8n-copilot-cowork/">Dataverse goes where you build: Copilot Cowork, coding agents and n8n</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilot Academy</title>
+    <link href="https://learn.microsoft.com/en-us/viva/learning/academy-copilot"/>
+    <id>https://learn.microsoft.com/en-us/viva/learning/academy-copilot</id>
+    <updated>2026-11-02T12:32:00+00:00</updated>
+    <published>2026-11-02T12:32:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft Copilot Academy Summarize this article for me In this article Microsoft Copilot Academy helps learners develop skills associated with Microsoft Copilot. This experience provides structured educational content within Viva Learning to help users learn about, discover, and use Copilot effectively. Copilot Academy can be accessed here:.]]></summary>
+  </entry>
+  <entry>
+    <title>Restrict discovery of SharePoint sites and content - SharePoint in Microsoft 365</title>
+    <link href="https://learn.microsoft.com/en-us/sharepoint/restricted-content-discovery"/>
+    <id>https://learn.microsoft.com/en-us/sharepoint/restricted-content-discovery</id>
+    <updated>2026-10-31T01:03:00+00:00</updated>
+    <published>2026-10-31T01:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to restrict the discovery of SharePoint sites from Microsoft Copilot and tenant-wide search.]]></summary>
+  </entry>
+  <entry>
+    <title>Does ‘eval’ in the workspace path change what your agent does?</title>
+    <link href="https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/"/>
+    <id>https://devblogs.microsoft.com/?p=22641</id>
+    <updated>2026-10-30T12:49:14+00:00</updated>
+    <published>2026-10-30T12:49:14+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Your eval might be telling the agent it&#8217;s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The agent sees that path on every turn, in the system prompt [&#8230;]</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/">Does &#8216;eval&#8217; in the workspace path change what your agent does?</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft Dragon Copilot documentation</title>
+    <link href="https://learn.microsoft.com/en-us/industry/healthcare/dragon-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/industry/healthcare/dragon-copilot/</id>
+    <updated>2026-10-30T10:41:00+00:00</updated>
+    <published>2026-10-30T10:41:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft Dragon Copilot documentation Reduce administrative burden, accelerate clinical documentation and streamline care delivery with Dragon Copilot, a secure, extensible AI workspace that integrates seamlessly across workflows. Text controls supported by Dragon Copilot desktop Dragon Copilot desktop technical readiness assessmen... Microsoft.]]></summary>
+  </entry>
+  <entry>
+    <title>Built by makers: Five years of Power Platform Community Conference</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135345</id>
+    <updated>2026-10-29T16:30:00+00:00</updated>
+    <published>2026-10-29T16:30:00+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Five years in, PPCC is still built by makers. Explore the ideas, innovations, and community moments that shaped this year’s event.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/">Built by makers: Five years of Power Platform Community Conference</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Accelerating Frontier Transformation: Reshape business processes</title>
+    <link href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes/"/>
+    <id>https://www.microsoft.com/en-us/microsoft-cloud/blog/?p=128754</id>
+    <updated>2026-10-29T15:00:00+00:00</updated>
+    <published>2026-10-29T15:00:00+00:00</published>
+    <author><name>The Microsoft Cloud Blog</name></author>
+    <summary type="html"><![CDATA[<p>Discover how organizations are reshaping business processes with AI by connecting knowledge, building trust, and measuring outcomes that create lasting business value.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes/">Accelerating Frontier Transformation: Reshape business processes</a> appeared first on <a href="https://www.microsoft.com/en-us/microsoft-cloud/blog">The Microsoft Cloud Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Copilot in Power Automate - Power Automate</title>
+    <link href="https://learn.microsoft.com/en-us/power-automate/copilot-overview"/>
+    <id>https://learn.microsoft.com/en-us/power-automate/copilot-overview</id>
+    <updated>2026-10-29T01:03:00+00:00</updated>
+    <published>2026-10-29T01:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Copilot in Power Automate Summarize this article for me In this article Copilot in Power Automate helps you adopt automation and transform your processes. It uses the instructions you give in natural language to suggest solutions that achieve your goals. Copilot guides you through the entire creation process. Use the following sections to learn.]]></summary>
+  </entry>
+  <entry>
+    <title>From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135388</id>
+    <updated>2026-10-28T20:50:01+00:00</updated>
+    <published>2026-10-28T20:50:01+00:00</published>
+    <author><name>Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>The Microsoft Dataverse plugin for Copilot Cowork turns a plain-language request into real Dataverse tables, sample data and a published app, with every change approved by you and every action running under your own permissions.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/2026/10/28/dataverse-plugin-copilot-cowork/">From one prompt to a governed Dataverse app: the Dataverse plugin lands in Copilot Cowork</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>AI fluency: Boost your productivity with Microsoft Copilot - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/boost-productivity-with-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/boost-productivity-with-copilot/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Boost your productivity with Microsoft Copilot Beginner Developer Student AI Engineer Technology Manager Solution Architect Microsoft Copilot This module provides an in-depth look at how Microsoft Copilot can enhance your productivity. This module covers various aspects of using Copilot to streamline your workflow, manage your time effectively,.]]></summary>
+  </entry>
+  <entry>
+    <title>Get Started with GitHub Copilot - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/get-started-github-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/get-started-github-copilot/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get started with GitHub Copilot Intermediate Developer GitHub This module introduces developers to the GitHub Copilot products, the benefits that GitHub Copilot provides to developers, the GitHub Copilot and GitHub Copilot Chat product features, and the GitHub Copilot extensions for Visual Studio Code. This module introduces developers to the.]]></summary>
+  </entry>
+  <entry>
+    <title>GitHub Copilot Across Environments: IDE, Chat, GitHub.com, Command Line Techniques, and the GitHub Copilot App - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[GitHub Copilot Across Environments: IDE, Chat, GitHub.com, Command Line Techniques, and the GitHub Copilot App explore the versatile integration of GitHub's AI-powered coding assistance across your entire development workflow. It covers effective use of Copilot's auto-suggestions and multiple panes in IDEs, using natural language interactions in Copilot Chat, and streamlining command-line workflows. The guide delves into optimizing prompts, understanding context-aware code generation, and customizing Copilot's behavior to accelerate code changes and automate routine development tasks across different coding environments.]]></summary>
+  </entry>
+  <entry>
+    <title>Get Started with AI-Assisted Development - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to use GitHub Copilot in a Visual Studio Code environment. This training covers code analysis, inline and project documentation, app development, unit testing, code refactoring, and provides an introduction to vibe coding. AZ-2007]]></summary>
+  </entry>
+  <entry>
+    <title>Develop Unit Tests using GitHub Copilot Tools - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[This module explores using GitHub Copilot and GitHub Copilot Chat to create unit tests. Exercises provide practical experience creating unit test projects and running unit tests in Visual Studio Code.]]></summary>
+  </entry>
+  <entry>
+    <title>Introduction to Copilot Spaces - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/introduction-copilot-spaces/</id>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to use GitHub Copilot Spaces to get context-aware, reliable answers, configure custom instructions, and optimize interactions for repositories, issues, and pull requests.]]></summary>
+  </entry>
+  <entry>
+    <title>Publish Visual Studio Marketplace extensions securely with Trusted Publishing</title>
+    <link href="https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/"/>
+    <id>https://devblogs.microsoft.com/?p=22597</id>
+    <updated>2026-10-28T16:59:00+00:00</updated>
+    <published>2026-10-28T16:59:00+00:00</published>
+    <author><name>Microsoft for Developers</name></author>
+    <summary type="html"><![CDATA[<p>Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token.</p>
+<p>The post <a href="https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/">Publish Visual Studio Marketplace extensions securely with Trusted Publishing</a> appeared first on <a href="https://devblogs.microsoft.com">Microsoft for Developers</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Overview of Copilot UX components</title>
+    <link href="https://learn.microsoft.com/en-us/sharepoint/dev/spfx/copilot/overview-copilot-apps"/>
+    <id>https://learn.microsoft.com/en-us/sharepoint/dev/spfx/copilot/overview-copilot-apps</id>
+    <updated>2026-10-28T10:43:00+00:00</updated>
+    <published>2026-10-28T10:43:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Use Copilot UX components to build Microsoft 365 Copilot declarative agents with custom interactive UI, hosted automatically in your tenant, using familiar SharePoint Framework tools.]]></summary>
+  </entry>
+  <entry>
+    <title>Get access to Copilot Studio - Microsoft Copilot Studio</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing-subscriptions"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing-subscriptions</id>
+    <updated>2026-10-27T19:04:00+00:00</updated>
+    <published>2026-10-27T19:04:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get access to Copilot Studio Summarize this article for me In this article Note This article describes features used in agents or agent flows powered by the standard harness. Azure Bot Service skills are different from: Agent skills, instruction-based skills that you add to agents powered by the GitHub Copilot or Customer Conversation harness..]]></summary>
+  </entry>
+  <entry>
+    <title>Microsoft IQ documentation</title>
+    <link href="https://learn.microsoft.com/en-us/microsoft-iq/"/>
+    <id>https://learn.microsoft.com/en-us/microsoft-iq/</id>
+    <updated>2026-10-27T19:03:00+00:00</updated>
+    <published>2026-10-27T19:03:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Microsoft IQ is the enterprise intelligence layer of the Microsoft stack. It gives AI agents and Microsoft 365 Copilot a shared, continuously updated understanding of your organization by connecting how people work, how the business operates, and how agents unlock knowledge.]]></summary>
+  </entry>
+  <entry>
+    <title>Invite agentic coauthors to collaborate with you directly in canvas studio!</title>
+    <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/"/>
+    <id>https://www.microsoft.com/en-us/power-platform/blog/?p=135333</id>
+    <updated>2026-10-27T19:00:00+00:00</updated>
+    <published>2026-10-27T19:00:00+00:00</published>
+    <author><name>News - Microsoft Power Platform Blog</name></author>
+    <summary type="html"><![CDATA[<p>Today we&#8217;re excited to share big news for canvas app makers: agentic authoring in canvas studio using your GitHub account is now available in preview! In September, the canvas authoring agent plugin became generally available (GA), so you could build canvas apps from your own coding agent – GitHub Copilot CLI, Claude Code and more.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/invite-agentic-coauthors-to-collaborate-with-you-directly-in-canvas-studio/">Invite agentic coauthors to collaborate with you directly in canvas studio!</a> appeared first on <a href="https://www.microsoft.com/en-us/power-platform/blog">Microsoft Power Platform Blog</a>.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Create and publish agents with Microsoft Copilot Studio - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/</id>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Create and publish agents with Microsoft Copilot Studio At a glance Level Intermediate Skill &nbsp; Product Microsoft Copilot Role App Maker Administrator Subject Chatbots Get started creating agents with Microsoft Copilot Studio. This Learning Path introduces you to creating agents. Add Modules in this learning path Get started with Microsoft.]]></summary>
+  </entry>
+  <entry>
+    <title>Get Started With Copilot in Power BI - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/power-bi-copilot/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/power-bi-copilot/</id>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Get started with Copilot in Power BI Intermediate Data Analyst Microsoft Power Platform Power BI Microsoft Fabric Copilot in Power BI increases productivity when developing semantic models and reports using Power BI. Copilot also allows you to interact with your data using natural language to gain insights. Introduction min Use Copilot in Power BI.]]></summary>
+  </entry>
+  <entry>
+    <title>Build agents in Copilot Chat - Online workshop - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/modules/agents-copilot-chat/"/>
+    <id>https://learn.microsoft.com/en-us/training/modules/agents-copilot-chat/</id>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Build agents in Copilot Chat - Online workshop Beginner App Maker Functional Consultant Microsoft Copilot Microsoft 365 Copilot Chat makes it easy to build declarative agents that enhance productivity across your organization. In this module, you'll explore the fundamentals of agent creation using Microsoft 365 Copilot Chat with templates and.]]></summary>
+  </entry>
+  <entry>
+    <title>Agent in a day - Online Workshop - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/agents-online-workshop/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/agents-online-workshop/</id>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to create agents and automation with Microsoft Copilot Studio.]]></summary>
+  </entry>
+  <entry>
+    <title>Create agents with Microsoft Copilot Studio - Online Workshop - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/power-virtual-agents-workshop/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/power-virtual-agents-workshop/</id>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Learn how to create agents with Microsoft Copilot Studio.]]></summary>
+  </entry>
+  <entry>
+    <title>Explore Microsoft 365 Copilot and Agent Administration - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-agent-administration/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-agent-administration/</id>
+    <updated>2026-10-26T17:13:00+00:00</updated>
+    <published>2026-10-26T17:13:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Explore Microsoft 365 Copilot and agent administration At a glance Level Beginner Skill &nbsp; Product Microsoft 365 Microsoft 365 Admin Center Microsoft 365 Copilot Microsoft 365 Copilot Chat Microsoft Copilot Studio Role Administrator Functional Consultant Subject Artificial intelligence Productivity This Learning Path explores how to boost.]]></summary>
+  </entry>
+  <entry>
+    <title>Transform Your Everyday Business Processes with Agents MS-4019 - Training</title>
+    <link href="https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/"/>
+    <id>https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/</id>
+    <updated>2026-10-26T17:13:00+00:00</updated>
+    <published>2026-10-26T17:13:00+00:00</published>
+    <author><name>Microsoft Learn - &quot;Copilot&quot;</name></author>
+    <summary type="html"><![CDATA[Transform your everyday business processes with agents At a glance Level Beginner Skill &nbsp; Product Microsoft 365 Office 365 Microsoft 365 Copilot Chat Microsoft 365 Copilot Role Administrator Business User Developer Student Subject Artificial intelligence Business applications Productivity This learning path introduces agents in Microsoft.]]></summary>
+  </entry>
+</feed>
